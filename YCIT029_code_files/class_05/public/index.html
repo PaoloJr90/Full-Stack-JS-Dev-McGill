@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dad Jokes Generator</title>
+  </head>
+  <body>
+    <h1>Dad Jokes Generator</h1>
+    <form id="query-form">
+      <label for="queryDescription">Enter your joke topic:</label>
+      <input id="queryDescription" type="text" />
+      <button type="submit">Generate Dad Joke</button>
+    </form>
+    <div id="result"></div>
+    <script>
+      document
+        .getElementById("query-form")
+        .addEventListener("submit", async (e) => {
+          e.preventDefault();
+          const queryDescription =
+            document.getElementById("queryDescription").value;
+          fetch("/generate", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ queryDescription }),
+          })
+            .then((response) => {
+              // after ~20ms
+              return response.json();
+            })
+            .then((result) => {
+              // after 3 minutes
+              document.getElementById(
+                "result"
+              ).innerText = `Dad Joke: ${result.dadJoke}`;
+            });
+        });
+    </script>
+  </body>
+</html>

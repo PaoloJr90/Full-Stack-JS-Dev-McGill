@@ -1,0 +1,12 @@
+* {
+    font-family: "Century Gothic"
+}
+
+body {
+    background-color: rgba(46, 43, 226, 0.247);
+}
+
+h1 {
+    font-size: 30pt;
+    background-color: aquamarine;
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PJ Contact</title>
+    <link rel="stylesheet" href="../W3_CSS_files/css/w3.css">
+    <link rel="stylesheet" href="../W3_CSS_files/css/all.css">
+    <style>
+    html,body,h1,h2,h3,h4,h5,h6 {font-family: "Century Gothic", sans-serif !important}
+    </style>
+    <link rel="icon" type="image/-x-icon" href="../favicon_package_v0.16/favicon.ico"/>
+  </head>
+
+  <body class="w3-container w3-center w3-white w3-padding-16">
+    <img src="../../project/images/moon.png" id="icon">
+    <h2><strong>Contact</strong></h2>
+    
+      <div class="w3-center w3-padding-16 ">
+        <p>Fill out the form below to contact me. All information is required</p>
+            <form action="http://localhost/pj_angeloni_contact.php" method="post">
+              <label for="name"> Name: </label>
+              <input type="text" name="name" placeholder="Required" required>
+                <br>
+                <label for="email">E-mail: </label>
+                <input type="email" name="email" placeholder="Required" required>
+                <br>
+                <label for="howhear">How did you hear about me (Required)?</label>
+                <select name="dropdown" required>
+                  <option value="select">-Select-</option>
+                  <option value="Google">Google</option>
+                  <option value="Google">GitHub</option>
+                  <option value="Google">LinkedIn</option>
+                  <option value="Google">Friend</option>
+                </select>
+                <br>
+                <label for="comments">Comments:</label>
+                <textarea name="comments" rows="5" cols="30" placeholder="Required" required></textarea><br>
+                <br>
+                <input id="submit" type="submit" name="submit">
+            </form>
+        </div>
+      <footer class="w3-container w3-center w3-margin-bottom">
+        <p>Find me on GitHub and LinkedIn</p>
+        <a href="https://github.com/PaoloJr90">  <i class="fa-brands fa-github w3-hover-opacity"></i></a>
+        &nbsp;
+        &nbsp;
+        &nbsp;
+        <a href="https://linkedin.com/in/pjangeloni"> <i class="fa-brands fa-linkedin w3-hover-opacity"></i></a><br>
+        <a style="text-decoration: underline" href="../PJ_Resume.html">About Page</a>
+        <p>Powered by <a href="https://mrrobot.fandom.com/wiki/Fsociety" target="_blank">fsociety</a></p>
+      </footer>
+
+      <script>
+        var icon = document.getElementById("icon");
+        icon.onclick = function(){
+        document.body.classList.toggle("dark-theme");
+        if(document.body.classList.contains("dark-theme")){
+          icon.src = "../../project/images/sun.png";
+    }else{
+      icon.src = "../../project/images/moon.png";
+    }
+      }
+      </script>
+  </body>
+</html>

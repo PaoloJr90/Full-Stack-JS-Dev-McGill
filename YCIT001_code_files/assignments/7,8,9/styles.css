@@ -1,0 +1,67 @@
+body { background-color: #E2FFFF;
+    color: #15495E;
+    margin-left:10%; margin-right:10%;
+    font-family: Arial, Verdana, sans-serif;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+h1 {line-height: 200%;
+    font-family: serif;
+    text-indent: 1em;
+    text-shadow: 3px 3px 5px #000000;
+    color: white;
+}
+header { background-image: url('lilyheader.jpg'); 
+    background-color: #80cbc4;
+    height: 150px;
+    background-position-x: right;
+    background-repeat: no-repeat;
+}
+
+h2 { background-color: #B0E6E6;
+    color: #237B7B;
+    font-family: serif;
+    text-align: center;
+}
+
+main { padding-left: 2em;
+    padding-right: 2em;
+}
+
+.footer { background-color: #237B7B;
+        color: white;
+        text-align: center;   
+        border-left: 50px solid #40407A; 
+        border-right: 50px solid #40407A; 
+        font-size: 0.80em;
+        font-style: italic;   
+}
+
+nav {font-weight: bold;
+    color: #237B7B;
+}
+
+.nav-logo {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:visited {color: #237B7B;}
+a:hover {color: #40407A;
+        border: 3px inset #333333;
+}
+
+
+#wrapper { background-color: #F5F5F5;
+            margin-left: auto;
+            margin-right:auto;
+            width: 80%;
+            min-width: 400px;
+            max-width: 1280px;
+            
+        }
+
+#hero {display:block;
+        text-align:center;
+}       

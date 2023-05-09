@@ -1,0 +1,28 @@
+const {addMinutes, addHours, addDays, addMonths, addYears, format} = require('date-fns');
+
+const date = new Date('2020.01.01 22:30:00');
+
+const d1 = addDays(date, 5);
+const d2 = addMonths(date, 5);
+const d3 = addYears(date, 5);
+const d4 = addMinutes(date, 5);
+
+const dates = [];
+dates.push(d1, d2, d3, d4);
+
+//dates.forEach(printDate);
+
+for (x of dates) {
+    printDate(x);
+}
+console.log(format);
+
+function printDate(d) 
+{
+    console.log(format(d, 'yyyy-MM-dd HH:mm:ss'));
+}
+
+console.log(printDate());
+
+//console.log(format(d1, 'yyyy-MM-dd HH:mm'));
+

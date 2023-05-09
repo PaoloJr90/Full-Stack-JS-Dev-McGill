@@ -1,0 +1,56 @@
+<!-- webpage to validate password entry
+password should:
+1. contain a minimum of 8 characters
+2. at least two uppercase letters
+3. at least two lowercase letters
+4. should contain a symbol from: #$%^&
+
+on submit, display a message "Password passed" or "Password not accepted"
+Color the message green (for pass) or red (for fail)
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <label for="password_entry">New password</label>
+        <input id="password_requirement" name="i-like"/>
+        <button type="submit" onclick="regexValidation()">Submit</button>
+        <!-- insert "clear" button with JS function to empty the "New password" box -->
+        <button type="reset" onclick="clearBox()">Clear</button>
+
+        <script>
+            // function to validate password entry using regex
+            function regexValidation() {
+                let password = document.getElementById("password_requirement").value;
+                let regex1 = /.{8,}/;
+                let regex2 = /[A-Z]{2,}/;
+                let regex3 = /[a-z]{2,}/;
+                let regex4 =  /[#$%^&]/;
+                // result will be true if all regex are true. test() method returns a boolean value
+                let result = regex1.test(password) && regex2.test(password) && regex3.test(password) && regex4.test(password);
+                // stylize the message "Password passed" or "Password not accepted" based on the result of the regex validation
+                if (result) {
+                    document.getElementById("password_requirement").style.color = "green";
+                    document.getElementById("password_requirement").value = "Password passed";
+                } else {
+                    document.getElementById("password_requirement").style.color = "red";
+                    document.getElementById("password_requirement").value = "Password not accepted";
+                }
+                    // explain why password is not accepted. Display password entered in input box with a message for the password requirements
+                   if (result == false) {                       
+                        alert(`${password} is not a valid password. Password must contain at least 8 characters, 2 uppercase letters, 2 lowercase letters, and at least one symbol from: #$%^&`);
+                    }
+                }
+            // function to clear the input box
+            function clearBox() {
+                document.getElementById("password_requirement").value = "";
+            }
+        </script>
+</body>
+</html>

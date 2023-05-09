@@ -1,0 +1,27 @@
+{
+  "name": "applied-algorithms-in-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node $fileName",
+    "start:debug": "node --inspect-brk=127.0.0.1:9231 $fileName",
+    "start:watch": "nodemon  $fileName",
+    "start:debug:watch": "nodemon --inspect-brk=127.0.0.1:9231 $fileName"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafarijason/Applied-Algorithms-in-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jafarijason/Applied-Algorithms-in-JavaScript/issues"
+  },
+  "homepage": "https://github.com/jafarijason/Applied-Algorithms-in-JavaScript#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "type": "module"
+}
