@@ -1,27 +1,20 @@
 {
-  "name": "class_05",
+  "name": "socket.io",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "type": "module",
   "scripts": {
-    "start": "nodemon app.js",
-    "start2": "nodemon random-joke-app.js",
+    "dev": "nodemon app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "fast-csv": "^4.3.6",
-    "open": "^9.1.0",
-    "openai": "^3.2.1"
+    "socket.io": "^4.6.1"
   },
   "devDependencies": {
-    "@faker-js/faker": "^7.6.0",
-    "electron": "^24.2.0",
     "nodemon": "^2.0.22"
   }
 }

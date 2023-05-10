@@ -41,3 +41,25 @@ console.log("var10.toString():", var10.toString());
 
 // both String constructor and toString method are used to convert a value to a string.
 // toString will output an error if the value is undefined or null.
+
+console.log("Number(va1)", Number(va1));
+console.log("Number(va2)", Number(va2));
+console.log("Number(va3)", Number(va3));
+console.log("Number(va4)", Number(va4));
+console.log("Number(va5)", Number(va5));
+console.log("Number(va6)", Number(va6));
+console.log("Number(va7)", Number(va7));
+console.log("Number(va8)", Number(va8));
+console.log("Number(va9)", Number(va9));
+console.log("Number(va10)", Number(va10));
+
+console.log("+va1", +va1);
+console.log("+va2", +va2);
+console.log("+va3", +va3);
+console.log("+va4", +va4);
+console.log("+va5", +va5);
+console.log("+va6", +va6);
+console.log("+va7", +va7);
+console.log("+va8", +va8);
+console.log("+va9", +va9);
+console.log("+va10", +va10);
