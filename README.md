@@ -6,3 +6,4 @@ YCIT023 --> Structure & Interpretation of JavaScript
 YCIT025 --> Reading & Debugging JavaScript
 YCIT026 --> Applied Algorithms in JavaScript
 YCIT029 --> NodeJS & APIs
+YCIT031 --> Database for the Web (PostgreSQL)

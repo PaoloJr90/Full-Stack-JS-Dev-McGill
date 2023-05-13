@@ -1,0 +1,81 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "role": "admin",
+      "email": "alice@wonderland.com",
+      "password": "password123^&*",
+      "permissions": [
+        "read",
+        "write",
+        "delete",
+        "notify"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "role": "manager",
+      "email": "bob@bobsworld.com",
+      "password": "password1234$$",
+      "permissions": [
+        "read",
+        "notify"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Paolo",
+      "role": "user",
+      "email": "paolo@mcgill.com",
+      "password": "password789!@#",
+      "permissions": [
+        "notify"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Tester",
+      "role": "admin",
+      "email": "alice2@wonderland.com",
+      "password": "passw2ord123^&*",
+      "permissions": [
+        "read"
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Test",
+      "role": "admin",
+      "email": "alice2@wonderwall.com",
+      "password": "passw2ord123^&*",
+      "permissions": [
+        "read",
+        "write",
+        "delete",
+        "notify"
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Test6",
+      "role": "nada",
+      "email": "alice2@wonderfull.com",
+      "password": "passw2ord123^&*",
+      "permissions": [
+        ""
+      ]
+    },
+    {
+      "id": 7,
+      "name": "TestingAgain",
+      "role": "uknown",
+      "email": "ali@wonderland.com",
+      "password": "passw2or",
+      "permissions": [
+        "notify"
+      ]
+    }
+  ]
+}
