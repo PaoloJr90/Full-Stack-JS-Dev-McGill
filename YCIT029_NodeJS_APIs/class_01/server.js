@@ -49,4 +49,4 @@ app.listen(port, () => {
   console.log(`Menu server listening at http://localhost:${port}`);
 });
 
-console.log("end of script");
+//console.log("end of script");

@@ -1,0 +1,1001 @@
+id,street_address,street_suffix,city,state_province,state_abbrev,postal_zip,country,country_code,latitude,longitude
+1,62 Waxwing Alley,Alley,Brooklyn,New York,NY,11210,United States,US,40.6285158,-73.9447994
+2,2 Rutledge Alley,Point,Jamaica,New York,NY,11470,United States,US,40.6998888,-73.8076421
+3,5701 Pawling Drive,Alley,Washington,District of Columbia,DC,20016,United States,US,38.9374808,-77.0852258
+4,82883 Victoria Place,Avenue,Arnhem,Provincie Gelderland,3,6814,Netherlands,NL,51.9877935,5.9030863
+5,04 Ridgeview Hill,Hill,Tampa,Florida,FL,33661,United States,US,27.96,-82.53
+6,896 Cambridge Point,Way,Chicago,Illinois,IL,60657,United States,US,41.9403795,-87.6531805
+7,5095 Nova Way,Pass,New Orleans,Louisiana,LA,70183,United States,US,29.9640473,-90.1999318
+8,2 Sutteridge Plaza,Point,Huntsville,Alabama,AL,35805,United States,US,34.6939733,-86.6107106
+9,6 Ridgeway Road,Hill,Adelaide Mail Centre,South Australia,SA,5874,Australia,AU,-34.990888,138.574391
+10,9 6th Plaza,Parkway,Santa Rosa,California,CA,95405,United States,US,38.43923,-122.6673018
+11,9866 Merry Junction,Terrace,Roma,Lazio,LZ,196,Italy,IT,41.9314429,12.469587
+12,492 Burning Wood Park,Crossing,Newton,Massachusetts,MA,2162,United States,US,40.7679191,-93.3362962
+13,94301 Elgar Street,Avenue,Syracuse,New York,NY,13205,United States,US,42.9979838,-76.1377935
+14,05 Texas Place,Hill,Luzern,Kanton Luzern,LU,6005,Switzerland,CH,47.0419512,8.3140814
+15,92777 Duke Junction,Way,Pamplona/Iruña,Navarra,NC,31005,Spain,ES,42.8045028,-1.6432837
+16,4553 Buell Center,Road,Eindhoven,Provincie Noord-Brabant,6,5609,Netherlands,NL,51.5244042,5.7576526
+17,9034 Blackbird Trail,Pass,New Haven,Connecticut,CT,6510,United States,US,41.3052226,-72.9268626
+18,2417 Iowa Center,Street,Cincinnati,Ohio,OH,45296,United States,US,39.14,-84.54
+19,1 Ruskin Trail,Road,Norwalk,Connecticut,CT,6854,United States,US,41.0924881,-73.4239143
+20,046 Chinook Alley,Parkway,Roanoke,Virginia,VA,24048,United States,US,42.4681713,-83.1589716
+21,33586 Dixon Circle,Crossing,Rochester,New York,NY,14604,United States,US,43.1581207,-77.6063541
+22,10 Huxley Court,Hill,Milwaukee,Wisconsin,WI,53225,United States,US,43.1095503,-88.0411993
+23,39 Upham Court,Point,Roma,Lazio,LZ,152,Italy,IT,41.8789317,12.4581209
+24,97 Nova Park,Way,Biloxi,Mississippi,MS,39534,United States,US,30.4111518,-88.9198322
+25,4043 Tennyson Center,Point,Adelaide Mail Centre,South Australia,SA,5889,Australia,AU,-34.990888,138.574391
+26,32 Spenser Court,Plaza,Genova,Liguria,LG,16124,Italy,IT,44.4133103,8.9314338
+27,9 Rigney Park,Hill,Columbia,South Carolina,SC,29220,United States,US,34.0067522,-81.0330246
+28,65154 Lillian Crossing,Circle,Santa Monica,California,CA,90410,United States,US,34.02,-118.5
+29,2841 Eastlawn Lane,Court,Phoenix,Arizona,AZ,85062,United States,US,33.45,-111.97
+30,0 Del Mar Circle,Terrace,Adelaide Mail Centre,South Australia,SA,5874,Australia,AU,-34.990888,138.574391
+31,20190 Forest Pass,Terrace,New Orleans,Louisiana,LA,70149,United States,US,29.9518573,-90.067925
+32,0659 Killdeer Circle,Way,Santa Ana,California,CA,92725,United States,US,33.7518692,-117.8590737
+33,451 Golf View Drive,Park,Den Haag,Provincie Zuid-Holland,11,2578,Netherlands,NL,51.5190765,5.9202663
+34,11460 Manufacturers Hill,Place,El Paso,Texas,TX,88525,United States,US,31.77,-106.43
+35,1296 Becker Point,Pass,San Antonio,Texas,TX,78285,United States,US,29.42,-98.49
+36,840 West Alley,Center,Milano,Lombardia,LM,20136,Italy,IT,45.4476447,9.1855974
+37,678 Green Avenue,Avenue,Kingsport,Tennessee,TN,37665,United States,US,36.5804277,-82.5753842
+38,06 Sachs Trail,Alley,Coruña A,Galicia,GA,15190,Spain,ES,43.3216087,-8.434873
+39,63912 Swallow Plaza,Alley,Salerno,Campania,CM,84135,Italy,IT,40.7074498,14.8046066
+40,30946 Corscot Road,Court,Pueblo,Colorado,CO,81010,United States,US,38.2743989,-104.6086995
+41,0 Spohn Lane,Way,Daytona Beach,Florida,FL,32123,United States,US,29.1374566,-80.9980687
+42,66 Amoth Park,Court,Kassel,Hessen,HE,34132,Germany,DE,51.2804955,9.4266475
+43,46 Hintze Point,Pass,Dongen,Provincie Noord-Brabant,6,5104,Netherlands,NL,51.6271163,4.9413027
+44,7 2nd Drive,Lane,Torino,Piemonte,PM,10152,Italy,IT,45.0806751,7.6873152
+45,58 Larry Plaza,Parkway,Alkmaar,Provincie Noord-Holland,7,1814,Netherlands,NL,52.6201537,4.7406288
+46,970 Rigney Hill,Plaza,Maastricht,Provincie Limburg,5,6214,Netherlands,NL,50.8446443,5.6735818
+47,597 Sycamore Plaza,Hill,Humble,Texas,TX,77346,United States,US,29.9997656,-95.1744903
+48,60 Superior Court,Lane,Rochester,New York,NY,14604,United States,US,43.1581207,-77.6063541
+49,1 Cottonwood Junction,Avenue,Fort Worth,Texas,TX,76110,United States,US,32.7011609,-97.3354531
+50,91 Derek Court,Alley,Los Angeles,California,CA,90094,United States,US,33.9744806,-118.4177707
+51,67 Esch Crossing,Way,Maastricht,Provincie Limburg,5,6204,Netherlands,NL,50.8269051,5.7198625
+52,14275 Buhler Parkway,Avenue,Pittsburgh,Pennsylvania,PA,15240,United States,US,40.4888987,-79.8900686
+53,577 Grim Place,Terrace,Padova,Veneto,VN,35141,Italy,IT,45.402837,11.8577064
+54,18413 Mesta Circle,Circle,Richmond,Virginia,VA,23203,United States,US,37.9429182,-77.3469946
+55,26 Prairieview Alley,Park,Hamburg,Hamburg,HH,22453,Germany,DE,53.6125259,9.9659855
+56,3 Shasta Circle,Place,Emmen,Provincie Drenthe,1,7814,Netherlands,NL,52.7881505,6.8700255
+57,87 Walton Road,Point,Grand Rapids,Michigan,MI,49510,United States,US,42.9267976,-85.6480724
+58,990 Logan Lane,Terrace,Cottbus,Brandenburg,BB,3055,Germany,DE,51.7941895,14.3056705
+59,19 Donald Hill,Junction,Düsseldorf,Nordrhein-Westfalen,NW,40215,Germany,DE,51.2149435,6.7825598
+60,66403 Vermont Court,Center,Zürich,Kanton Zürich,ZH,8023,Switzerland,CH,47.376817,8.538367
+61,649 Pond Terrace,Circle,Clearwater,Florida,FL,34629,United States,US,41.7396715,-85.9262162
+62,4 Dottie Hill,Court,Antwerpen,Vlaanderen,VLG,2170,Belgium,BE,51.2472392,4.4403455
+63,8628 Pierstorff Junction,Park,Milano,Lombardia,LM,20147,Italy,IT,45.4560254,9.1257661
+64,9 Lawn Way,Drive,Delft,Provincie Zuid-Holland,11,2604,Netherlands,NL,51.9998397,4.3399875
+65,8 Buell Center,Road,Bern,Kanton Bern,BE,3030,Switzerland,CH,46.9684329,7.4624361
+66,36 Blaine Way,Pass,Nijmegen,Provincie Gelderland,3,6509,Netherlands,NL,51.8417492,5.8715134
+67,1 Spaight Point,Lane,Omaha,Nebraska,NE,68105,United States,US,41.2418116,-95.9673967
+68,08770 Cascade Way,Center,Pontevedra,Galicia,GA,36164,Spain,ES,42.4385891,-8.5995773
+69,801 Mayer Lane,Place,Greensboro,North Carolina,NC,27404,United States,US,36.09,-79.83
+70,96829 Garrison Point,Way,Sankt Lorenzen im Mürztal,Steiermark,6,8644,Austria,AT,47.4906719,15.39185
+71,1 Alpine Point,Junction,Cincinnati,Ohio,OH,45223,United States,US,39.1674274,-84.5484275
+72,95983 6th Lane,Crossing,Colorado Springs,Colorado,CO,80920,United States,US,38.9583005,-104.7812654
+73,505 Cordelia Terrace,Lane,Baton Rouge,Louisiana,LA,70826,United States,US,30.4,-91.08
+74,7942 Scofield Street,Crossing,Donostia-San Sebastian,Pais Vasco,PV,20005,Spain,ES,43.3177929,-1.9814245
+75,711 Spaight Hill,Point,Tilburg,Provincie Noord-Brabant,6,5029,Netherlands,NL,51.5742615,5.0840393
+76,7 Troy Crossing,Plaza,Naples,Florida,FL,34102,United States,US,26.132433,-81.7951054
+77,0311 Mendota Drive,Trail,Etten-Leur,Provincie Noord-Brabant,6,4874,Netherlands,NL,51.5749669,4.6259996
+78,120 Bartelt Circle,Alley,Denton,Texas,TX,76210,United States,US,33.1362221,-97.0821162
+79,7989 Mayer Way,Plaza,Ogden,Utah,UT,84409,United States,US,41.2,-111.98
+80,7319 Shopko Drive,Junction,Palmdale,California,CA,93591,United States,US,34.5925622,-117.8194197
+81,06905 Kinsman Hill,Court,Aurora,Illinois,IL,60505,United States,US,41.7579896,-88.2947675
+82,512 Crownhardt Plaza,Way,Chandler,Arizona,AZ,85246,United States,US,33.3107008,-111.8749872
+83,53 Blackbird Drive,Trail,Madrid,Madrid,MD,28045,Spain,ES,40.3954764,-3.6902166
+84,76 Forster Parkway,Plaza,Madrid,Madrid,MD,28025,Spain,ES,40.378739,-3.7358924
+85,83938 Comanche Way,Crossing,Naples,Florida,FL,34108,United States,US,26.2448015,-81.8115051
+86,684 Maryland Plaza,Plaza,Sunnyvale,California,CA,94089,United States,US,37.4110966,-122.0181762
+87,0 Superior Trail,Place,Roanoke,Virginia,VA,24009,United States,US,37.27,-79.94
+88,58238 Calypso Terrace,Alley,Washington,District of Columbia,DC,20436,United States,US,38.8965627,-77.0224418
+89,2 Clemons Place,Junction,Denver,Colorado,CO,80279,United States,US,39.7446895,-104.9933772
+90,03 High Crossing Junction,Road,Adelaide Mail Centre,South Australia,SA,5874,Australia,AU,-34.990888,138.574391
+91,98923 Corry Point,Alley,Stockton,California,CA,95205,United States,US,37.9642589,-121.2569138
+92,8294 Alpine Street,Avenue,Chicago,Illinois,IL,60609,United States,US,41.8062766,-87.6482474
+93,343 Hazelcrest Trail,Terrace,Bielefeld,Nordrhein-Westfalen,NW,33619,Germany,DE,52.0404442,8.4770585
+94,164 Sauthoff Place,Junction,Wageningen,Provincie Gelderland,3,6709,Netherlands,NL,51.9671737,5.6469613
+95,0824 Marquette Center,Crossing,Olympia,Washington,WA,98506,United States,US,47.0378741,-122.9006951
+96,62 Manitowish Street,Trail,Oklahoma City,Oklahoma,OK,73119,United States,US,35.4213103,-97.5734783
+97,78317 Marquette Plaza,Center,Dallas,Texas,TX,75260,United States,US,32.78,-96.8
+98,1 Steensland Street,Lane,Columbia,South Carolina,SC,29220,United States,US,34.0067522,-81.0330246
+99,57704 Brentwood Place,Road,Knoxville,Tennessee,TN,37995,United States,US,35.95,-84.02
+100,42571 Valley Edge Circle,Plaza,Cincinnati,Ohio,OH,45296,United States,US,39.14,-84.54
+101,4367 Kipling Lane,Park,Zwolle,Provincie Overijssel,15,8044,Netherlands,NL,52.5470847,6.0237938
+102,245 Summit Lane,Trail,Racine,Wisconsin,WI,53405,United States,US,42.7333428,-87.8255014
+103,413 Thompson Center,Road,Tournai,Wallonie,WAL,7536,Belgium,BE,50.59219,3.4387783
+104,456 Melrose Alley,Parkway,Fort Worth,Texas,TX,76105,United States,US,32.7274015,-97.2706807
+105,53 Tennyson Crossing,Road,Saarbrücken,Saarland,SL,66119,Germany,DE,49.2088164,7.0075837
+106,66 Dryden Trail,Crossing,Lelystad,Provincie Flevoland,16,8214,Netherlands,NL,52.5077777,5.4757709
+107,984 Grayhawk Lane,Terrace,Wetzlar,Hessen,HE,35581,Germany,DE,50.5487974,8.5763725
+108,37439 Armistice Park,Terrace,Des Moines,Iowa,IA,50320,United States,US,41.5359175,-93.5711466
+109,09757 Lerdahl Park,Center,Hagerstown,Maryland,MD,21747,United States,US,39.7164885,-77.7312977
+110,2 Burrows Road,Pass,Orlando,Florida,FL,32819,United States,US,28.4630493,-81.460856
+111,73595 Cottonwood Alley,Plaza,Kissimmee,Florida,FL,34745,United States,US,28.322781,-81.3912772
+112,4 Florence Trail,Way,Zamora,Castilla - Leon,CL,49008,Spain,ES,41.5120612,-5.7415013
+113,996 Declaration Place,Park,Shawnee Mission,Kansas,KS,66276,United States,US,39.0269443,-94.6673484
+114,50 Merrick Crossing,Hill,Washington,District of Columbia,DC,20575,United States,US,38.8991558,-77.0380148
+115,61 Glendale Avenue,Street,Berlin,Berlin,BE,13509,Germany,DE,52.5890862,13.3032995
+116,0 Bluejay Circle,Road,Hollywood,Florida,FL,33023,United States,US,25.9868744,-80.2153998
+117,42931 Packers Parkway,Way,St. Anton an der Jeßnitz,Niederösterreich,3,3282,Austria,AT,48.0147763,15.2299747
+118,20687 Summerview Alley,Hill,Enschede,Provincie Overijssel,15,7514,Netherlands,NL,52.2254703,6.893632
+119,93542 International Terrace,Park,Messina,Sicilia,SC,98135,Italy,IT,38.0918968,15.491758
+120,42 Loomis Place,Way,Charlotte,North Carolina,NC,28210,United States,US,35.1274285,-80.8599193
+121,4 Springs Terrace,Hill,München,Bayern,BY,81679,Germany,DE,48.1440135,11.6074275
+122,18 Fisk Parkway,Junction,Aurora,Colorado,CO,80045,United States,US,39.7503186,-104.8367063
+123,3323 Hansons Drive,Terrace,Enschede,Provincie Overijssel,15,7509,Netherlands,NL,52.211713,6.8954592
+124,651 Clemons Center,Pass,Sacramento,California,CA,94297,United States,US,38.58,-121.49
+125,0930 Sunbrook Drive,Lane,Decatur,Georgia,GA,30033,United States,US,33.8092255,-84.2805478
+126,2 Mariners Cove Avenue,Terrace,San Francisco,California,CA,94159,United States,US,37.7794055,-122.4494738
+127,135 Sage Parkway,Alley,Springfield,Illinois,IL,62756,United States,US,39.7975767,-89.6551671
+128,05885 6th Point,Court,Toledo,Ohio,OH,43615,United States,US,41.6560291,-83.666758
+129,55261 Vahlen Alley,Parkway,Waterbury,Connecticut,CT,6721,United States,US,41.56,-73.05
+130,59369 Carey Place,Point,Alexandria,Virginia,VA,22309,United States,US,38.7240446,-77.1082444
+131,6316 Alpine Lane,Way,Louisville,Kentucky,KY,40205,United States,US,38.2214782,-85.6794434
+132,4 Welch Pass,Parkway,Berlin,Berlin,BE,14199,Germany,DE,52.4767935,13.2962036
+133,248 Tony Way,Circle,Leon,Castilla - Leon,CL,24010,Spain,ES,42.5944931,-5.6195112
+134,37 Sauthoff Plaza,Parkway,Phoenix,Arizona,AZ,85062,United States,US,33.45,-111.97
+135,4434 David Alley,Avenue,Orlando,Florida,FL,32885,United States,US,28.54,-81.38
+136,52 Melvin Court,Street,Boston,Massachusetts,MA,2208,United States,US,35.9015016,-81.138279
+137,17321 Thierer Lane,Terrace,Phoenix,Arizona,AZ,85010,United States,US,33.4658131,-112.0244867
+138,6 Hudson Point,Plaza,Malaga,Andalucia,AN,29005,Spain,ES,36.7195014,-4.4239965
+139,77866 Prairieview Drive,Crossing,Jacksonville,Florida,FL,32277,United States,US,30.3776024,-81.5870604
+140,57747 Shasta Place,Drive,Dordrecht,Provincie Zuid-Holland,11,3309,Netherlands,NL,51.7783026,4.693265
+141,50004 Dakota Trail,Circle,Roma,Lazio,LZ,196,Italy,IT,41.9314429,12.469587
+142,23 Sunnyside Road,Trail,San Diego,California,CA,92105,United States,US,32.7348953,-117.0970596
+143,883 Ridgeway Road,Point,Monticello,Minnesota,MN,55590,United States,US,45.31,-93.79
+144,43 Morning Lane,Park,San Francisco,California,CA,94121,United States,US,37.7813454,-122.497668
+145,7 Bultman Parkway,Avenue,Houston,Texas,TX,77070,United States,US,29.9601879,-95.5587992
+146,8 Jay Circle,Street,Miami,Florida,FL,33129,United States,US,25.7564471,-80.2056382
+147,58801 Gerald Plaza,Circle,Bremerhaven,Bremen,HB,27576,Germany,DE,53.5567847,8.5929499
+148,82 Straubel Lane,Road,Richmond,California,CA,94807,United States,US,37.93,-122.38
+149,696 Schlimgen Junction,Crossing,Phoenix,Arizona,AZ,85062,United States,US,33.45,-111.97
+150,389 Spenser Lane,Road,Ancona,Marche,MH,60129,Italy,IT,43.6158299,13.518915
+151,8 Calypso Avenue,Park,Vancouver,Washington,WA,98687,United States,US,45.63,-122.52
+152,408 Cottonwood Circle,Plaza,Saint Louis,Missouri,MO,63131,United States,US,38.6206914,-90.4408037
+153,69 Atwood Park,Trail,Pescara,Abruzzi,AB,65129,Italy,IT,42.4353312,14.222154
+154,20793 Oak Place,Trail,Evansville,Indiana,IN,47719,United States,US,38.0515795,-87.6876112
+155,6 Warrior Terrace,Crossing,Seattle,Washington,WA,98195,United States,US,47.6508882,-122.3084023
+156,05 Shelley Junction,Place,Delft,Provincie Zuid-Holland,11,2624,Netherlands,NL,51.991495,4.3557381
+157,187 Del Sol Circle,Trail,Memphis,Tennessee,TN,38150,United States,US,35.15,-90.05
+158,81477 American Ash Circle,Plaza,West Palm Beach,Florida,FL,33416,United States,US,26.6664174,-80.0894977
+159,5 Lunder Pass,Road,Madison,Wisconsin,WI,53726,United States,US,43.0690343,-89.4245627
+160,010 Glendale Road,Point,Lancaster,California,CA,93584,United States,US,34.7,-118.14
+161,55 Elmside Trail,Road,Minneapolis,Minnesota,MN,55470,United States,US,44.9799999,-93.26
+162,47 Elgar Way,Street,Dayton,Ohio,OH,45440,United States,US,39.6720868,-84.0960056
+163,705 Shoshone Alley,Circle,Shawnee Mission,Kansas,KS,66205,United States,US,39.0277832,-94.6557914
+164,4 Fallview Center,Hill,Dallas,Texas,TX,75260,United States,US,32.78,-96.8
+165,2 Stoughton Court,Lane,Cottbus,Brandenburg,BB,3055,Germany,DE,51.7941895,14.3056705
+166,30360 Maple Place,Crossing,Albany,New York,NY,12210,United States,US,42.6532844,-73.762495
+167,758 Moland Pass,Crossing,Birmingham,Alabama,AL,35236,United States,US,33.37,-86.81
+168,7308 Weeping Birch Place,Trail,Memphis,Tennessee,TN,38168,United States,US,35.2299999,-89.9
+169,4046 Barby Crossing,Circle,Grand Rapids,Michigan,MI,49505,United States,US,43.0043693,-85.6332093
+170,783 Crescent Oaks Avenue,Park,Milwaukee,Wisconsin,WI,53234,United States,US,43,-87.97
+171,5400 Buena Vista Drive,Drive,Alexandria,Virginia,VA,22301,United States,US,38.8189466,-77.0593246
+172,26892 Ilene Trail,Parkway,Dallas,Texas,TX,75277,United States,US,32.78,-96.8
+173,6508 Mallory Center,Parkway,Pasadena,California,CA,91117,United States,US,34.149491,-118.099449
+174,0401 Haas Place,Street,Kansas City,Missouri,MO,64130,United States,US,39.0345609,-94.5521274
+175,78373 Longview Avenue,Plaza,Macon,Georgia,GA,31205,United States,US,32.75,-83.66
+176,8840 Eggendart Park,Plaza,Köln,Nordrhein-Westfalen,NW,50935,Germany,DE,50.9210958,6.8968829
+177,25 Monument Center,Avenue,Wilmington,North Carolina,NC,28410,United States,US,34.14,-77.92
+178,335 Brickson Park Lane,Street,Birmingham,Alabama,AL,35263,United States,US,33.7098769,-117.7431372
+179,95 Old Gate Street,Lane,Salinas,California,CA,93907,United States,US,36.6777372,-121.6555013
+180,62835 Larry Plaza,Place,Mobile,Alabama,AL,36670,United States,US,30.7,-88.11
+181,5 Heffernan Trail,Trail,Orlando,Florida,FL,32868,United States,US,28.5833617,-81.4760857
+182,7967 Schlimgen Trail,Pass,Firenze,Toscana,TC,50124,Italy,IT,43.7549435,11.2216134
+183,7 Center Terrace,Center,Tilburg,Provincie Noord-Brabant,6,5029,Netherlands,NL,51.5742615,5.0840393
+184,73 Randy Drive,Street,Maple Plain,Minnesota,MN,55579,United States,US,45.01,-93.65
+185,1863 Grasskamp Road,Court,Sevilla,Andalucia,AN,41015,Spain,ES,37.439299,-5.9885456
+186,2 Debra Lane,Plaza,Louisville,Kentucky,KY,40205,United States,US,38.2214782,-85.6794434
+187,717 Namekagon Terrace,Terrace,New Brunswick,New Jersey,NJ,8922,United States,US,40.496654,-74.446092
+188,0661 Welch Lane,Crossing,Jackson,Mississippi,MS,39216,United States,US,32.3361632,-90.1565209
+189,45 Loftsgordon Court,Plaza,Tallahassee,Florida,FL,32314,United States,US,30.4124334,-84.2831162
+190,5736 Burning Wood Pass,Center,Salerno,Campania,CM,84124,Italy,IT,40.6815206,14.7703255
+191,74 Fair Oaks Park,Parkway,Amarillo,Texas,TX,79105,United States,US,35.6648088,-101.8036596
+192,3297 Wayridge Street,Point,Launceston,Tasmania,TAS,7904,Australia,AU,-41.4332215,147.1440875
+193,95706 Old Shore Court,Place,Beverwijk,Provincie Noord-Holland,7,1944,Netherlands,NL,52.4927381,4.6490303
+194,495 Pearson Road,Road,Columbus,Ohio,OH,43210,United States,US,39.9990626,-83.0173386
+195,4 Eastwood Street,Lane,Denver,Colorado,CO,80262,United States,US,39.7167888,-104.9665815
+196,27 Badeau Park,Crossing,Soest,Provincie Utrecht,9,3764,Netherlands,NL,52.1861944,5.3099089
+197,4 Mifflin Point,Street,Akron,Ohio,OH,44315,United States,US,41.0285407,-81.4633516
+198,4285 Loeprich Street,Trail,Richmond,Virginia,VA,23242,United States,US,37.62,-77.61
+199,3 Trailsway Street,Avenue,Pontevedra,Galicia,GA,36005,Spain,ES,42.4423768,-8.6463086
+200,118 Ruskin Way,Parkway,Oklahoma City,Oklahoma,OK,73135,United States,US,35.3922378,-97.4273195
+201,12 Hovde Terrace,Alley,Chattanooga,Tennessee,TN,37416,United States,US,35.0863004,-85.1790404
+202,26540 Golf Lane,Park,El Paso,Texas,TX,88525,United States,US,31.77,-106.43
+203,885 Merrick Hill,Street,Heerlen,Provincie Limburg,5,6414,Netherlands,NL,50.9168212,5.9799297
+204,7152 Lerdahl Terrace,Plaza,San Diego,California,CA,92176,United States,US,32.7634169,-117.1230937
+205,4 Roth Lane,Plaza,Norfolk,Virginia,VA,23514,United States,US,36.8466981,-76.2900032
+206,477 Raven Junction,Court,Jacksonville,Florida,FL,32255,United States,US,30.3321838,-81.655651
+207,69336 Dakota Hill,Crossing,Terneuzen,Provincie Zeeland,10,4534,Netherlands,NL,52.359151,5.1999127
+208,64 Summit Avenue,Hill,Washington,District of Columbia,DC,20226,United States,US,38.8974442,-77.0296868
+209,7563 Lillian Drive,Alley,San Antonio,Texas,TX,78205,United States,US,29.422658,-98.4869905
+210,43039 John Wall Hill,Center,Salt Lake City,Utah,UT,84105,United States,US,40.7345053,-111.8628205
+211,7 Mitchell Parkway,Junction,Zwolle,Provincie Overijssel,15,8019,Netherlands,NL,52.5019685,6.0684306
+212,809 Monica Circle,Court,Chesapeake,Virginia,VA,23324,United States,US,36.8022774,-76.2768755
+213,6 Bayside Circle,Street,Toledo,Ohio,OH,43635,United States,US,41.6615259,-83.6861485
+214,978 Lake View Lane,Street,El Paso,Texas,TX,88519,United States,US,31.77,-106.43
+215,2208 Carberry Hill,Hill,Luzern,Kanton Luzern,LU,6015,Switzerland,CH,47.0641228,8.2785907
+216,85440 Melody Hill,Center,Little Rock,Arkansas,AR,72204,United States,US,34.7179437,-92.3714901
+217,092 Texas Center,Center,Colorado Springs,Colorado,CO,80935,United States,US,38.8099385,-104.7599648
+218,7049 Becker Terrace,Lane,Wilmington,Delaware,DE,19805,United States,US,39.7472496,-75.5917092
+219,5 Towne Way,Junction,Wilmington,North Carolina,NC,28405,United States,US,34.2426224,-77.8252923
+220,76 Colorado Way,Center,Ourense,Galicia,GA,32005,Spain,ES,42.3233666,-7.8585562
+221,4733 Lukken Lane,Crossing,Oakland,California,CA,94611,United States,US,37.8336281,-122.2029832
+222,168 Monument Drive,Street,Seattle,Washington,WA,98148,United States,US,47.4430894,-122.327464
+223,34798 Algoma Way,Parkway,Naples,Florida,FL,34108,United States,US,26.2448015,-81.8115051
+224,24 Bartillon Place,Place,Tucson,Arizona,AZ,85732,United States,US,32.229334,-110.8772009
+225,4551 Northland Hill,Way,Zephyrhills,Florida,FL,33543,United States,US,28.2107548,-82.2909146
+226,4597 Sherman Plaza,Lane,Washington,District of Columbia,DC,20310,United States,US,38.9273849,-77.0125445
+227,78 Comanche Way,Lane,Heerlen,Provincie Limburg,5,6414,Netherlands,NL,50.9168212,5.9799297
+228,0 Mariners Cove Alley,Center,Freiburg im Breisgau,Baden-Württemberg,BW,79106,Germany,DE,48.0044582,7.8374651
+229,83314 Mayer Pass,Street,Houston,Texas,TX,77293,United States,US,29.8699072,-95.3298675
+230,614 Straubel Trail,Trail,Muskegon,Michigan,MI,49444,United States,US,43.1790617,-86.1853474
+231,6062 Village Green Street,Drive,Eindhoven,Provincie Noord-Brabant,6,5609,Netherlands,NL,51.5244042,5.7576526
+232,8 Crownhardt Plaza,Circle,Hartford,Connecticut,CT,6183,United States,US,41.7644599,-72.6729522
+233,85 Acker Junction,Trail,Pittsburgh,Pennsylvania,PA,15286,United States,US,40.5,-80.06
+234,97 Cody Avenue,Plaza,Jackson,Mississippi,MS,39204,United States,US,32.2821952,-90.2291565
+235,6452 Schiller Center,Terrace,Hamburg Harvestehude,Hamburg,HH,20249,Germany,DE,53.5900195,9.9897946
+236,282 Harper Alley,Road,Sydney,New South Wales,NSW,1181,Australia,AU,-33.7974423,151.2502275
+237,7619 Amoth Plaza,Trail,Bradenton,Florida,FL,34282,United States,US,27.4404047,-82.5828377
+238,6435 Roxbury Avenue,Hill,Wilmington,North Carolina,NC,28405,United States,US,34.2426224,-77.8252923
+239,501 Goodland Parkway,Drive,Messina,Sicilia,SC,98146,Italy,IT,38.1788095,15.4976181
+240,09745 Lakewood Gardens Lane,Point,Newport News,Virginia,VA,23612,United States,US,37.07,-76.5
+241,44672 Dwight Court,Road,Honolulu,Hawaii,HI,96840,United States,US,21.31,-157.86
+242,8 Schiller Junction,Trail,Eastern Suburbs Mc,New South Wales,NSW,1315,Australia,AU,-38.043127,145.297768
+243,83026 Golf Course Point,Court,Lawrenceville,Georgia,GA,30045,United States,US,33.9255183,-83.9214896
+244,1151 Myrtle Place,Road,Dortmund,Nordrhein-Westfalen,NW,44143,Germany,DE,51.5195303,7.5123813
+245,4 Bluestem Street,Point,Luzern,Kanton Luzern,LU,6005,Switzerland,CH,47.0419512,8.3140814
+246,13 John Wall Center,Point,Newport News,Virginia,VA,23612,United States,US,37.07,-76.5
+247,4010 Shasta Street,Court,Billings,Montana,MT,59112,United States,US,45.78,-108.5
+248,28 Bonner Court,Hill,Columbia,South Carolina,SC,29220,United States,US,34.0067522,-81.0330246
+249,47 3rd Court,Place,Atlanta,Georgia,GA,30351,United States,US,33.7654607,-84.38709
+250,0 Meadow Valley Point,Point,Shawnee Mission,Kansas,KS,66286,United States,US,39.02,-94.72
+251,3704 Hovde Parkway,Trail,Washington,District of Columbia,DC,20310,United States,US,38.9273849,-77.0125445
+252,19875 Surrey Drive,Court,Wilkes Barre,Pennsylvania,PA,18763,United States,US,41.2505888,-75.8520879
+253,128 Blaine Circle,Drive,Toledo,Castilla - La Mancha,CM,45071,Spain,ES,39.873363,-4.0414005
+254,45437 Dawn Place,Alley,Rotterdam,Provincie Zuid-Holland,11,3094,Netherlands,NL,51.897904,4.473358
+255,2394 Arrowood Crossing,Place,Chicago,Illinois,IL,60630,United States,US,41.9720786,-87.7517295
+256,01 Bay Point,Junction,Trenton,New Jersey,NJ,8650,United States,US,40.1929685,-74.6502902
+257,9 Drewry Trail,Junction,Tampa,Florida,FL,33686,United States,US,27.8684314,-82.5270388
+258,96417 Tennyson Crossing,Place,Lancaster,Pennsylvania,PA,17622,United States,US,40.04,-76.31
+259,5 Orin Place,Park,Fort Wayne,Indiana,IN,46857,United States,US,41.07,-85.14
+260,6751 Manley Way,Plaza,Las Vegas,Nevada,NV,89155,United States,US,36.164846,-115.155709
+261,6329 Westerfield Street,Center,Toledo,Ohio,OH,43635,United States,US,41.6615259,-83.6861485
+262,683 Messerschmidt Point,Hill,Provo,Utah,UT,84605,United States,US,40.2299999,-111.66
+263,58226 Spohn Crossing,Avenue,Donostia-San Sebastian,Pais Vasco,PV,20010,Spain,ES,43.3057431,-1.9802013
+264,8200 Pleasure Park,Hill,Fullerton,California,CA,92835,United States,US,33.9041552,-117.9307584
+265,9794 Elmside Alley,Crossing,Midland,Texas,TX,79710,United States,US,32.0631839,-102.0375564
+266,5 Erie Plaza,Lane,Denver,Colorado,CO,80243,United States,US,39.7170046,-104.9408931
+267,17 Sommers Park,Alley,Palatine,Illinois,IL,60078,United States,US,42.1165506,-88.0549221
+268,447 Stephen Way,Center,Nijmegen,Provincie Gelderland,3,6509,Netherlands,NL,51.8417492,5.8715134
+269,0 Susan Place,Circle,Sacramento,California,CA,94263,United States,US,38.58,-121.49
+270,77 Fuller Way,Parkway,Beaumont,Texas,TX,77705,United States,US,30.080174,-94.1265562
+271,4 Village Hill,Circle,Ourense,Galicia,GA,32005,Spain,ES,42.3233666,-7.8585562
+272,3 Hintze Center,Way,Van Nuys,California,CA,91499,United States,US,34.2,-118.47
+273,2 Everett Center,Terrace,Lelystad,Provincie Flevoland,16,8204,Netherlands,NL,52.5077777,5.4757709
+274,30 Mifflin Hill,Road,Saint Louis,Missouri,MO,63150,United States,US,38.63,-90.2099999
+275,237 Kinsman Pass,Place,Amsterdam Westpoort,Provincie Noord-Holland,7,1049,Netherlands,NL,52.4000431,4.7642491
+276,7358 Green Junction,Trail,Niederwaldkirchen,Oberösterreich,4,4174,Austria,AT,48.4508261,14.0838042
+277,51253 Dapin Hill,Trail,Zwolle,Provincie Overijssel,15,8044,Netherlands,NL,52.5470847,6.0237938
+278,14717 Maryland Crossing,Road,San Angelo,Texas,TX,76905,United States,US,31.4637723,-100.4370375
+279,5986 Anderson Parkway,Street,Lelystad,Provincie Flevoland,16,8214,Netherlands,NL,52.5077777,5.4757709
+280,5 Steensland Court,Point,Schiedam postbusnummers,Provincie Zuid-Holland,11,3104,Netherlands,NL,51.883,4.3577
+281,4 Mayer Road,Plaza,Pensacola,Florida,FL,32595,United States,US,30.475663,-87.193563
+282,927 Bunting Trail,Trail,New York City,New York,NY,10270,United States,US,40.7051078,-74.0056827
+283,4 Twin Pines Park,Parkway,Newport Beach,California,CA,92662,United States,US,33.6061462,-117.8912117
+284,23040 Mayfield Avenue,Way,Kassel,Hessen,HE,34132,Germany,DE,51.2804955,9.4266475
+285,76223 Artisan Circle,Hill,Denver,Colorado,CO,80204,United States,US,39.7380371,-105.0265195
+286,60 Northview Road,Avenue,Murcia,Murcia,MC,30010,Spain,ES,37.970285,-1.1424989
+287,17 Sycamore Pass,Street,Madison,Wisconsin,WI,53716,United States,US,43.0709333,-89.3274391
+288,11 Bluestem Trail,Circle,Miami,Florida,FL,33196,United States,US,25.6697865,-80.4660256
+289,492 Victoria Street,Avenue,Perth,Western Australia,WA,6843,Australia,AU,-31.9478653,115.8693718
+290,765 Buell Trail,Circle,Lawrenceville,Georgia,GA,30045,United States,US,33.9255183,-83.9214896
+291,8 Pine View Road,Circle,Ath,Wallonie,WAL,7823,Belgium,BE,50.6302806,3.8861843
+292,5 Sunbrook Hill,Way,Murcia,Murcia,MC,30010,Spain,ES,37.970285,-1.1424989
+293,6 Center Trail,Pass,Washington,District of Columbia,DC,56944,United States,US,38.86,-76.99
+294,5361 Nelson Crossing,Court,Utrecht (stad),Provincie Utrecht,9,3550,Netherlands,NL,52.08234,5.1175293
+295,255 Fordem Park,Trail,Baltimore,Maryland,MD,21216,United States,US,39.3096984,-76.6701475
+296,6487 Parkside Drive,Point,Zürich,Kanton Zürich,ZH,8088,Switzerland,CH,47.3774041,8.5113801
+297,75 American Park,Circle,Huntington,West Virginia,WV,25709,United States,US,38.4099999,-82.4599999
+298,6452 Browning Avenue,Way,West Palm Beach,Florida,FL,33411,United States,US,26.7044143,-80.1986649
+299,8139 Myrtle Terrace,Alley,San Diego,California,CA,92110,United States,US,32.7657318,-117.199996
+300,6880 Golf Course Alley,Terrace,Duisburg,Nordrhein-Westfalen,NW,47239,Germany,DE,51.3948213,6.6518329
+301,7 Gulseth Pass,Point,Hanau,Hessen,HE,63456,Germany,DE,50.104315,8.911141
+302,19496 Delladonna Drive,Crossing,Kansas City,Missouri,MO,64136,United States,US,39.014268,-94.4027782
+303,59912 Lakeland Park,Road,El Paso,Texas,TX,79945,United States,US,31.76,-106.49
+304,21 Clarendon Drive,Avenue,San Jose,California,CA,95128,United States,US,37.3189149,-121.9416226
+305,31801 Sunnyside Avenue,Hill,Zeist,Provincie Utrecht,9,3709,Netherlands,NL,52.066952,5.2407431
+306,0372 Superior Park,Center,Valladolid,Castilla - Leon,CL,47071,Spain,ES,41.5675577,-4.883185
+307,58 Gerald Avenue,Pass,Lexington,Kentucky,KY,40515,United States,US,37.9098504,-84.4172666
+308,74246 Kingsford Court,Alley,Hamburg,Hamburg,HH,20359,Germany,DE,53.5511779,9.9641759
+309,26919 Old Shore Circle,Center,Pittsburgh,Pennsylvania,PA,15220,United States,US,40.4222843,-80.0367259
+310,3 Anzinger Parkway,Alley,Oklahoma City,Oklahoma,OK,73167,United States,US,35.47,-97.52
+311,0337 Dakota Place,Drive,Sevilla,Andalucia,AN,41020,Spain,ES,37.4212157,-5.9251211
+312,8479 Holy Cross Lane,Circle,Colorado Springs,Colorado,CO,80915,United States,US,38.8563576,-104.6995991
+313,763 Miller Circle,Plaza,Sydney,New South Wales,NSW,1140,Australia,AU,-27.9424308,153.3970962
+314,6320 Hovde Trail,Circle,Berlin,Berlin,BE,13509,Germany,DE,52.5890862,13.3032995
+315,72 Graceland Avenue,Drive,Firenze,Toscana,TC,50124,Italy,IT,43.7549435,11.2216134
+316,7640 Crownhardt Parkway,Court,Peoria,Illinois,IL,61635,United States,US,40.7,-89.52
+317,88270 Jenifer Point,Drive,Anniston,Alabama,AL,36205,United States,US,33.708276,-85.7922905
+318,332 Gulseth Parkway,Point,Shawnee Mission,Kansas,KS,66225,United States,US,38.9048517,-94.6864991
+319,80 Arrowood Place,Plaza,Sydney,New South Wales,NSW,1120,Australia,AU,-37.713929,144.962411
+320,66 Sheridan Way,Way,St. Anton an der Jeßnitz,Niederösterreich,3,3282,Austria,AT,48.0147763,15.2299747
+321,526 Rutledge Drive,Terrace,Leeuwarden,Provincie Friesland,2,8914,Netherlands,NL,53.2060963,5.7524581
+322,99237 Caliangt Avenue,Point,Catania,Sicilia,SC,95123,Italy,IT,37.5267674,15.0586639
+323,6595 Mariners Cove Alley,Hill,Naples,Florida,FL,34102,United States,US,26.132433,-81.7951054
+324,29 Killdeer Court,Pass,Cincinnati,Ohio,OH,45254,United States,US,39.0745039,-84.33211
+325,6 Corscot Court,Circle,Roma,Lazio,LZ,141,Italy,IT,41.9391449,12.532671
+326,698 Pepper Wood Drive,Park,Dallas,Texas,TX,75260,United States,US,32.78,-96.8
+327,38 Merrick Place,Lane,Saint Louis,Missouri,MO,63126,United States,US,38.552678,-90.3795438
+328,60008 Ridgeway Avenue,Drive,Atlanta,Georgia,GA,31106,United States,US,33.75,-84.39
+329,596 Debra Crossing,Drive,Washington,District of Columbia,DC,20337,United States,US,42.5420213,-91.1118075
+330,5 Warbler Place,Terrace,Orlando,Florida,FL,32835,United States,US,28.5107872,-81.4828198
+331,5080 Crescent Oaks Avenue,Circle,Huntington,West Virginia,WV,25709,United States,US,38.4099999,-82.4599999
+332,20398 Amoth Hill,Parkway,Houston,Texas,TX,77228,United States,US,29.82,-95.29
+333,3 Evergreen Drive,Trail,Venlo,Provincie Limburg,5,5904,Netherlands,NL,51.3731898,6.1747875
+334,7 Warrior Point,Court,Columbus,Georgia,GA,31914,United States,US,32.56,-85
+335,898 Bay Trail,Alley,Independence,Missouri,MO,64054,United States,US,39.1063109,-94.4439365
+336,86 Kenwood Avenue,Parkway,San Francisco,California,CA,94154,United States,US,37.78,-122.42
+337,8189 Gale Pass,Lane,Washington,District of Columbia,DC,20016,United States,US,38.9374808,-77.0852258
+338,76 Melody Park,Terrace,Birmingham,Alabama,AL,35263,United States,US,33.7098769,-117.7431372
+339,43 Helena Road,Terrace,Dallas,Texas,TX,75265,United States,US,32.78,-96.8
+340,12286 Columbus Place,Street,Haarlem,Provincie Noord-Holland,7,2014,Netherlands,NL,52.3739053,4.615857
+341,25895 Randy Circle,Circle,Tacoma,Washington,WA,98405,United States,US,47.2457073,-122.4773432
+342,5 Esch Parkway,Crossing,Hamm,Nordrhein-Westfalen,NW,59071,Germany,DE,51.6813704,7.9085254
+343,202 Crownhardt Avenue,Trail,Oklahoma City,Oklahoma,OK,73124,United States,US,35.46,-97.52
+344,80189 Carberry Circle,Pass,Messina,Sicilia,SC,98124,Italy,IT,38.1724824,15.5445064
+345,8006 Manitowish Point,Pass,Reno,Nevada,NV,89510,United States,US,40.0115285,-119.6962677
+346,4 Carey Court,Lane,Tucson,Arizona,AZ,85743,United States,US,32.3324642,-111.2129616
+347,0323 Rutledge Avenue,Avenue,Toledo,Ohio,OH,43635,United States,US,41.6615259,-83.6861485
+348,62 Bay Road,Circle,Greensboro,North Carolina,NC,27415,United States,US,36.09,-79.78
+349,26 Barnett Street,Crossing,Bergamo,Lombardia,LM,24129,Italy,IT,45.7022525,9.6323203
+350,77122 Dapin Circle,Avenue,Phoenix,Arizona,AZ,85067,United States,US,33.492776,-112.0837471
+351,828 Esker Crossing,Street,Gary,Indiana,IN,46406,United States,US,41.6020598,-87.4108352
+352,5175 Ruskin Street,Road,Nashville,Tennessee,TN,37245,United States,US,34.9128121,-116.6492954
+353,9134 Armistice Court,Crossing,Washington,District of Columbia,DC,20067,United States,US,38.92,-76.99
+354,00347 Melrose Parkway,Alley,Chicago,Illinois,IL,60681,United States,US,41.88,-87.62
+355,75385 Maple Wood Crossing,Junction,Fort Myers,Florida,FL,33994,United States,US,26.6732151,-81.8181961
+356,33 Utah Avenue,Avenue,Seattle,Washington,WA,98140,United States,US,47.6025001,-122.3385759
+357,8562 8th Park,Lane,Akron,Ohio,OH,44321,United States,US,41.0875099,-81.6363869
+358,010 Becker Junction,Alley,Chemnitz,Sachsen,SN,9123,Germany,DE,50.7868675,12.8945945
+359,13 1st Junction,Alley,Minneapolis,Minnesota,MN,55417,United States,US,44.903044,-93.2332244
+360,67 Sycamore Way,Circle,Indianapolis,Indiana,IN,46202,United States,US,39.7794767,-86.1700894
+361,635 Utah Plaza,Lane,Nieuwegein,Provincie Utrecht,9,3439,Netherlands,NL,52.0330418,5.1055921
+362,9 Fieldstone Park,Plaza,Seattle,Washington,WA,98158,United States,US,47.4494702,-122.307217
+363,5462 Annamark Way,Trail,Sacramento,California,CA,94297,United States,US,38.58,-121.49
+364,7 Bultman Drive,Street,Montgomery,Alabama,AL,36104,United States,US,32.3989318,-86.3224638
+365,7963 Hoard Place,Circle,Augsburg,Bayern,BY,86156,Germany,DE,48.3920947,10.8553557
+366,53435 Bluejay Way,Parkway,Perth,Western Australia,WA,6843,Australia,AU,-31.9478653,115.8693718
+367,181 East Terrace,Way,Pontevedra,Galicia,GA,36156,Spain,ES,42.4556093,-8.6325611
+368,83 Jay Park,Point,Woerden,Provincie Utrecht,9,3449,Netherlands,NL,52.0825062,4.8461786
+369,0 Pankratz Parkway,Drive,New Haven,Connecticut,CT,6520,United States,US,41.3065186,-72.9310714
+370,2 Messerschmidt Road,Court,Ancona,Marche,MH,60129,Italy,IT,43.6158299,13.518915
+371,04271 Morningstar Place,Street,Warren,Ohio,OH,44485,United States,US,41.2420649,-80.8488498
+372,08339 Fallview Place,Pass,Lafayette,Louisiana,LA,70593,United States,US,30.17,-92.06
+373,08716 Northwestern Circle,Parkway,Solingen,Nordrhein-Westfalen,NW,42659,Germany,DE,51.1461168,7.1220857
+374,6 Del Sol Circle,Terrace,Herne,Nordrhein-Westfalen,NW,44629,Germany,DE,51.5491768,7.2092264
+375,72107 Sachtjen Court,Trail,Spring,Texas,TX,77386,United States,US,30.1185635,-95.3730176
+376,4739 Troy Junction,Road,Alkmaar,Provincie Noord-Holland,7,1804,Netherlands,NL,52.6325793,4.7239896
+377,59 Helena Center,Street,Nashville,Tennessee,TN,37240,United States,US,36.1457192,-86.8066559
+378,37552 Talisman Parkway,Crossing,Austin,Texas,TX,78769,United States,US,30.27,-97.74
+379,54 Hoffman Park,Park,Valencia,Comunidad Valenciana,VC,46005,Spain,ES,39.463861,-0.3689508
+380,54359 Armistice Avenue,Park,Veghel,Provincie Noord-Brabant,6,5464,Netherlands,NL,51.630114,5.5807167
+381,02 Lakewood Gardens Place,Plaza,Charleston,West Virginia,WV,25326,United States,US,38.35,-81.63
+382,57 Bartillon Alley,Crossing,Nashville,Tennessee,TN,37205,United States,US,36.1030036,-86.8722146
+383,28 Oak Valley Way,Trail,Oceanside,California,CA,92056,United States,US,33.192168,-117.3028803
+384,1 Walton Hill,Place,Baltimore,Maryland,MD,21281,United States,US,39.2957066,-76.5697075
+385,120 Arapahoe Avenue,Street,Messina,Sicilia,SC,98124,Italy,IT,38.1724824,15.5445064
+386,80223 Petterle Plaza,Street,Raleigh,North Carolina,NC,27635,United States,US,35.8054733,-78.6169494
+387,5 Sullivan Way,Avenue,Donostia-San Sebastian,Pais Vasco,PV,20005,Spain,ES,43.3177929,-1.9814245
+388,0700 Butternut Pass,Street,Ede,Provincie Gelderland,3,6714,Netherlands,NL,52.0442252,5.6463088
+389,9788 Morningstar Place,Center,San Antonio,Texas,TX,78220,United States,US,29.4143476,-98.3910127
+390,4987 Raven Lane,Plaza,Omaha,Nebraska,NE,68110,United States,US,41.3009263,-95.8881542
+391,9 Golden Leaf Road,Plaza,Winter Haven,Florida,FL,33884,United States,US,27.9890156,-81.6802054
+392,81 Orin Plaza,Plaza,Katwijk,Provincie Zuid-Holland,11,2228,Netherlands,NL,51.8891035,5.9269366
+393,17888 Anniversary Road,Way,Leeuwarden,Provincie Friesland,2,8934,Netherlands,NL,53.1913133,5.8065627
+394,2 Westend Avenue,Lane,Valladolid,Castilla - Leon,CL,47071,Spain,ES,41.5675577,-4.883185
+395,3 Dixon Road,Junction,Wiesbaden,Hessen,HE,65191,Germany,DE,50.0897141,8.271907
+396,8316 Lawn Point,Plaza,Olympia,Washington,WA,98516,United States,US,47.1139164,-122.7708828
+397,3941 Manley Junction,Terrace,Ninove,Vlaanderen,VLG,9404,Belgium,BE,50.8441986,3.9438609
+398,2652 Mccormick Crossing,Trail,Jefferson City,Missouri,MO,65110,United States,US,38.5,-92.15
+399,89 Londonderry Point,Pass,Aurora,Colorado,CO,80044,United States,US,39.6599999,-104.84
+400,782 Westport Point,Pass,South Bend,Indiana,IN,46620,United States,US,41.6919638,-86.3754398
+401,24440 Drewry Plaza,Plaza,Wilmington,Delaware,DE,19810,United States,US,39.817642,-75.5101999
+402,08 Amoth Way,Street,San Jose,California,CA,95194,United States,US,37.39,-121.89
+403,10422 Namekagon Circle,Point,Orlando,Florida,FL,32868,United States,US,28.5833617,-81.4760857
+404,173 Sloan Hill,Road,Valencia,Comunidad Valenciana,VC,46015,Spain,ES,39.4798873,-0.3979657
+405,98 Prentice Lane,Lane,Montgomery,Alabama,AL,36195,United States,US,38.5385973,-121.6954666
+406,543 Ruskin Street,Crossing,Rochester,New York,NY,14683,United States,US,43.1625916,-77.6079126
+407,7 Oakridge Avenue,Road,Veghel,Provincie Noord-Brabant,6,5464,Netherlands,NL,51.630114,5.5807167
+408,87119 School Road,Parkway,Minneapolis,Minnesota,MN,55448,United States,US,45.1908533,-93.3007481
+409,6846 Loeprich Trail,Lane,Düsseldorf,Nordrhein-Westfalen,NW,40591,Germany,DE,51.1879547,6.8173593
+410,05971 Hudson Plaza,Plaza,Murfreesboro,Tennessee,TN,37131,United States,US,35.8559647,-86.3944828
+411,89575 Coleman Street,Avenue,München,Bayern,BY,80804,Germany,DE,48.1700928,11.5776824
+412,41 Melrose Center,Pass,Roma,Lazio,LZ,174,Italy,IT,41.8535089,12.5556193
+413,56906 Meadow Ridge Point,Alley,Washington,District of Columbia,DC,20380,United States,US,38.92,-76.99
+414,59036 Duke Terrace,Pass,Terneuzen,Provincie Zeeland,10,4534,Netherlands,NL,52.359151,5.1999127
+415,65 Canary Parkway,Terrace,Sacramento,California,CA,94273,United States,US,38.58,-121.49
+416,00515 Badeau Drive,Drive,Arlington,Virginia,VA,22217,United States,US,38.8807023,-77.1086041
+417,1229 Donald Pass,Park,Amarillo,Texas,TX,79171,United States,US,32.9578909,-102.8518139
+418,4240 Coolidge Court,Way,Arlington,Virginia,VA,22217,United States,US,38.8807023,-77.1086041
+419,033 Merrick Park,Park,Tulsa,Oklahoma,OK,74103,United States,US,36.1592882,-95.9964783
+420,2 Gina Point,Crossing,Huntsville,Alabama,AL,35895,United States,US,34.7299999,-86.59
+421,80 Blaine Hill,Drive,Beaumont,Texas,TX,77713,United States,US,30.0435239,-94.2743628
+422,5 Parkside Junction,Court,Fort Lauderdale,Florida,FL,33355,United States,US,26.11,-80.3
+423,40004 Nancy Circle,Terrace,Oklahoma City,Oklahoma,OK,73142,United States,US,35.6131551,-97.6385368
+424,5117 Monterey Street,Street,Murcia,Murcia,MC,30010,Spain,ES,37.970285,-1.1424989
+425,73116 Northfield Court,Avenue,Albuquerque,New Mexico,NM,87105,United States,US,34.9568026,-106.6055534
+426,547 Oakridge Crossing,Terrace,Denver,Colorado,CO,80243,United States,US,39.7170046,-104.9408931
+427,5 Bartillon Circle,Trail,Seattle,Washington,WA,98109,United States,US,47.6288591,-122.3456919
+428,1 Maryland Road,Road,Dresden,Sachsen,SN,1156,Germany,DE,51.085544,13.6276849
+429,056 Bultman Place,Street,Toledo,Ohio,OH,43615,United States,US,41.6560291,-83.666758
+430,2 Homewood Point,Terrace,Frankfurt am Main,Hessen,HE,60325,Germany,DE,50.1157078,8.6591469
+431,6 Clarendon Point,Parkway,Clearwater,Florida,FL,34629,United States,US,41.7396715,-85.9262162
+432,34671 Manufacturers Drive,Terrace,Monticello,Minnesota,MN,55590,United States,US,45.31,-93.79
+433,31133 Steensland Park,Alley,Pontevedra,Galicia,GA,36156,Spain,ES,42.4556093,-8.6325611
+434,45715 Delladonna Way,Terrace,Valdosta,Georgia,GA,31605,United States,US,30.9252192,-83.2291862
+435,671 Oak Center,Street,New York City,New York,NY,10105,United States,US,40.7634529,-73.9798808
+436,73 Glendale Alley,Drive,Warren,Ohio,OH,44485,United States,US,41.2420649,-80.8488498
+437,9 Westport Drive,Drive,New York City,New York,NY,10105,United States,US,40.7634529,-73.9798808
+438,30515 Ronald Regan Court,Alley,Eastern Suburbs Mc,New South Wales,NSW,1325,Australia,AU,-33.93274,151.188577
+439,39509 Sunnyside Lane,Drive,Beaumont,Texas,TX,77713,United States,US,30.0435239,-94.2743628
+440,2321 Reinke Plaza,Plaza,Roma,Lazio,LZ,152,Italy,IT,41.8789317,12.4581209
+441,845 Boyd Crossing,Lane,Fairbanks,Alaska,AK,99709,United States,US,64.8377778,-147.7163888
+442,29693 Beilfuss Center,Parkway,Richmond,Virginia,VA,23277,United States,US,37.9414132,-77.3472943
+443,893 Green Center,Court,Champaign,Illinois,IL,61825,United States,US,40.1211828,-88.2434596
+444,11 Valley Edge Way,Street,Saint Petersburg,Florida,FL,33710,United States,US,27.791959,-82.723924
+445,1968 Emmet Pass,Court,Hartford,Connecticut,CT,6152,United States,US,41.76,-72.69
+446,3 Kinsman Crossing,Court,Zürich,Kanton Zürich,ZH,8088,Switzerland,CH,47.3774041,8.5113801
+447,81757 Melvin Park,Terrace,Dallas,Texas,TX,75216,United States,US,32.7030883,-96.8029489
+448,82862 Hanover Court,Way,Scottsdale,Arizona,AZ,85271,United States,US,33.47,-111.92
+449,3 Vera Way,Court,Tournai,Wallonie,WAL,7536,Belgium,BE,50.59219,3.4387783
+450,2 Eastwood Street,Street,Jackson,Mississippi,MS,39216,United States,US,32.3361632,-90.1565209
+451,52377 Kensington Road,Court,Fort Myers,Florida,FL,33994,United States,US,26.6732151,-81.8181961
+452,89581 Sugar Drive,Park,Littleton,Colorado,CO,80126,United States,US,39.5511448,-104.9505671
+453,8 Farragut Alley,Road,Lakeland,Florida,FL,33805,United States,US,28.0964047,-81.9207423
+454,110 Tony Court,Alley,Hamm,Nordrhein-Westfalen,NW,59071,Germany,DE,51.6813704,7.9085254
+455,65246 Reindahl Street,Hill,Castellon De La Plana/Castello De La Pla,Comunidad Valenciana,VC,12005,Spain,ES,39.9658255,-0.0419877
+456,7975 Cherokee Avenue,Street,Washington,District of Columbia,DC,20420,United States,US,38.9003669,-77.0351137
+457,64 Florence Hill,Avenue,Villanova,Emilia-Romagna,ER,29010,Italy,IT,45.026845,9.9968284
+458,12783 Cascade Park,Pass,Miami,Florida,FL,33147,United States,US,25.84791,-80.2377078
+459,394 Monument Hill,Hill,Portland,Oregon,OR,97211,United States,US,45.5767359,-122.6386722
+460,38 Monica Avenue,Avenue,Palma De Mallorca,Baleares,IB,7121,Spain,ES,39.6343248,2.631838
+461,67 Cordelia Crossing,Trail,Sacramento,California,CA,95833,United States,US,38.6198298,-121.5198716
+462,30 Golf Course Point,Hill,Indianapolis,Indiana,IN,46278,United States,US,39.8911731,-86.2869507
+463,11 Bobwhite Alley,Terrace,Evansville,Indiana,IN,47732,United States,US,37.97,-87.5699999
+464,23 Hoffman Trail,Terrace,Logroño,La Rioja,RI,26005,Spain,ES,42.4914204,-2.522269
+465,729 Schurz Crossing,Trail,Basel,Kanton Basel-Stadt,BS,4055,Switzerland,CH,47.5612569,7.5655743
+466,72276 Hudson Road,Drive,Montgomery,Alabama,AL,36195,United States,US,38.5385973,-121.6954666
+467,54492 Petterle Park,Alley,Arnhem,Provincie Gelderland,3,6834,Netherlands,NL,51.9560027,5.9280255
+468,101 Spohn Hill,Hill,Sydney,New South Wales,NSW,1120,Australia,AU,-37.713929,144.962411
+469,39751 Warbler Avenue,Circle,Birmingham,Alabama,AL,35236,United States,US,33.37,-86.81
+470,8391 Tony Junction,Center,Washington,District of Columbia,DC,20420,United States,US,38.9003669,-77.0351137
+471,293 Buena Vista Hill,Circle,Hamburg,Hamburg,HH,22179,Germany,DE,53.607925,10.0852568
+472,9 7th Trail,Crossing,Virginia Beach,Virginia,VA,23459,United States,US,36.9262849,-76.0203323
+473,06951 West Street,Court,Jackson,Mississippi,MS,39216,United States,US,32.3361632,-90.1565209
+474,65351 Utah Court,Point,Colorado Springs,Colorado,CO,80935,United States,US,38.8099385,-104.7599648
+475,098 Rieder Court,Lane,Naples,Florida,FL,34102,United States,US,26.132433,-81.7951054
+476,7 Prairieview Place,Terrace,Haarlem,Provincie Noord-Holland,7,2029,Netherlands,NL,52.3626877,4.6195236
+477,378 Glacier Hill Center,Point,Anchorage,Alaska,AK,99507,United States,US,61.148769,-149.8010811
+478,26773 Elka Point,Center,Billings,Montana,MT,59112,United States,US,45.78,-108.5
+479,050 Meadow Vale Trail,Trail,Durham,North Carolina,NC,27710,United States,US,36.0038131,-78.9387241
+480,4 Garrison Pass,Way,Niederwaldkirchen,Oberösterreich,4,4174,Austria,AT,48.4508261,14.0838042
+481,03 Melrose Crossing,Plaza,Columbia,Missouri,MO,65211,United States,US,38.9331391,-92.3738037
+482,18 Muir Hill,Street,Almere Haven,Provincie Flevoland,16,1360,Netherlands,NL,52.842561,5.7187546
+483,484 Hanover Plaza,Park,Osnabrück,Niedersachsen,NI,49082,Germany,DE,52.2415583,8.0495294
+484,06588 Golf Course Center,Lane,Berlin,Berlin,BE,12169,Germany,DE,52.4555293,13.339803
+485,12406 Everett Court,Avenue,Valladolid,Castilla - Leon,CL,47010,Spain,ES,41.6704519,-4.7135268
+486,0059 Sullivan Crossing,Hill,Sydney,New South Wales,NSW,1134,Australia,AU,-33.7974423,151.2502275
+487,8 Sachs Center,Trail,Emmen,Provincie Drenthe,1,7824,Netherlands,NL,52.781689,6.9347107
+488,58919 Esker Hill,Point,Wuppertal,Nordrhein-Westfalen,NW,42285,Germany,DE,51.256002,7.1736304
+489,3031 Roxbury Lane,Lane,Tilburg,Provincie Noord-Brabant,6,5009,Netherlands,NL,51.5742615,5.0840393
+490,13 Doe Crossing Park,Avenue,Palmas De Gran Canaria Las,Canarias,CN,35005,Spain,ES,28.1236316,-15.4287738
+491,2401 Alpine Place,Road,Roanoke,Virginia,VA,24040,United States,US,37.27,-79.94
+492,6 Grover Terrace,Alley,Ludwigshafen am Rhein,Rheinland-Pfalz,RP,67067,Germany,DE,49.4603474,8.402137
+493,860 Katie Street,Circle,Knoxville,Tennessee,TN,37924,United States,US,36.0268006,-83.7942551
+494,50313 Corry Lane,Pass,Lelystad,Provincie Flevoland,16,8229,Netherlands,NL,52.5077777,5.4757709
+495,5939 Prairie Rose Alley,Street,Dallas,Texas,TX,75287,United States,US,32.9985237,-96.84046
+496,07 Barnett Park,Pass,Dallas,Texas,TX,75372,United States,US,32.8172446,-96.7712123
+497,38 Katie Circle,Trail,Santa Rosa,California,CA,95405,United States,US,38.43923,-122.6673018
+498,3626 Lake View Park,Drive,Winston Salem,North Carolina,NC,27150,United States,US,36.0978298,-80.2438321
+499,235 Fieldstone Crossing,Crossing,Zwolle,Provincie Overijssel,15,8024,Netherlands,NL,52.5168356,6.1433403
+500,3255 Lakewood Gardens Way,Trail,Würzburg,Bayern,BY,97078,Germany,DE,49.8180135,9.9637931
+501,586 Larry Alley,Street,Coruña A,Galicia,GA,15190,Spain,ES,43.3216087,-8.434873
+502,23 Heath Road,Lane,Heilbronn,Baden-Württemberg,BW,74080,Germany,DE,49.1376432,9.1776059
+503,984 Pearson Crossing,Circle,Stuttgart,Baden-Württemberg,BW,70567,Germany,DE,48.7226206,9.1584836
+504,5 Maryland Street,Circle,Irvine,California,CA,92619,United States,US,33.6682421,-117.7659237
+505,76 Farwell Trail,Way,Orange,California,CA,92668,United States,US,32.4237461,-104.2655282
+506,6 Westend Hill,Street,Jackson,Mississippi,MS,39236,United States,US,32.3630585,-90.1475822
+507,6075 Rowland Trail,Road,Tucson,Arizona,AZ,85732,United States,US,32.229334,-110.8772009
+508,33 Packers Trail,Way,Bussum,Provincie Noord-Holland,7,1404,Netherlands,NL,52.2766397,5.162358
+509,67 Hooker Lane,Crossing,Hampton,Virginia,VA,23663,United States,US,37.0279431,-76.3116235
+510,0775 Meadow Vale Place,Junction,Philadelphia,Pennsylvania,PA,19141,United States,US,40.0397682,-75.145782
+511,36126 Burning Wood Junction,Way,Wageningen,Provincie Gelderland,3,6709,Netherlands,NL,51.9671737,5.6469613
+512,072 Milwaukee Avenue,Center,Köln,Nordrhein-Westfalen,NW,51107,Germany,DE,50.9173381,7.0902515
+513,50 Coleman Pass,Pass,Flushing,New York,NY,11388,United States,US,40.7753311,-73.8726184
+514,59489 Melby Lane,Drive,New Orleans,Louisiana,LA,70179,United States,US,29.9919028,-90.0795843
+515,2 Sundown Hill,Place,Sioux Falls,South Dakota,SD,57193,United States,US,43.6,-96.7099999
+516,3291 American Trail,Avenue,Palma De Mallorca,Baleares,IB,7010,Spain,ES,39.609109,2.6362975
+517,23 Crownhardt Court,Way,Alexandria,Virginia,VA,22309,United States,US,38.7240446,-77.1082444
+518,5 Holy Cross Alley,Court,Salerno,Campania,CM,84124,Italy,IT,40.6815206,14.7703255
+519,8884 Forest Run Crossing,Drive,Breda,Provincie Noord-Brabant,6,4839,Netherlands,NL,51.5829309,4.7066416
+520,318 Everett Lane,Pass,Cincinnati,Ohio,OH,45249,United States,US,39.2708955,-84.3279093
+521,30 Walton Crossing,Circle,Sacramento,California,CA,94237,United States,US,38.58,-121.49
+522,05174 Arkansas Street,Plaza,Lansing,Michigan,MI,48919,United States,US,42.7282811,-84.5511177
+523,6 Heffernan Crossing,Road,Seattle,Washington,WA,98185,United States,US,47.6060781,-122.3329957
+524,9 Katie Avenue,Circle,München,Bayern,BY,81543,Germany,DE,48.1127929,11.5681872
+525,386 Fordem Park,Pass,San Diego,California,CA,92191,United States,US,32.903454,-117.2195678
+526,187 Sheridan Hill,Terrace,Napoli,Campania,CM,80141,Italy,IT,40.8782107,14.2657584
+527,861 Glendale Place,Hill,Aurora,Colorado,CO,80045,United States,US,39.7503186,-104.8367063
+528,2346 Huxley Avenue,Drive,Los Angeles,California,CA,90055,United States,US,34.04,-118.26
+529,64938 Blackbird Park,Court,Jacksonville,Florida,FL,32236,United States,US,30.3121498,-81.7375526
+530,409 Center Pass,Crossing,Santa Cruz De Tenerife,Canarias,CN,38110,Spain,ES,28.4391484,-16.2845785
+531,8 Knutson Lane,Park,Roma,Lazio,LZ,174,Italy,IT,41.8535089,12.5556193
+532,94715 Service Terrace,Trail,Verona,Veneto,VN,37129,Italy,IT,45.446079,11.0057554
+533,519 Weeping Birch Point,Junction,Santa Cruz,California,CA,95064,United States,US,36.9923139,-122.0581762
+534,91049 Hermina Center,Junction,Orlando,Florida,FL,32885,United States,US,28.54,-81.38
+535,22661 Declaration Plaza,Crossing,Durham,North Carolina,NC,27717,United States,US,35.99,-78.9
+536,2641 Clyde Gallagher Street,Avenue,Bronx,New York,NY,10464,United States,US,40.864318,-73.7977928
+537,798 Fallview Place,Street,Denton,Texas,TX,76210,United States,US,33.1362221,-97.0821162
+538,2185 Stephen Circle,Lane,Washington,District of Columbia,DC,20566,United States,US,38.889471,-77.0578855
+539,8131 Claremont Road,Parkway,Flushing,New York,NY,11388,United States,US,40.7753311,-73.8726184
+540,23 Northfield Point,Crossing,Bakersfield,California,CA,93305,United States,US,35.3964972,-118.9819731
+541,122 Miller Pass,Drive,Braunschweig,Niedersachsen,NI,38106,Germany,DE,52.2802311,10.5390217
+542,388 Nevada Junction,Point,Denver,Colorado,CO,80279,United States,US,39.7446895,-104.9933772
+543,12893 Eggendart Junction,Hill,Hobart,Tasmania,TAS,7808,Australia,AU,-42.8821377,147.3271949
+544,657 Beilfuss Junction,Pass,Roma,Lazio,LZ,196,Italy,IT,41.9314429,12.469587
+545,61 David Terrace,Point,Eastern Suburbs Mc,New South Wales,NSW,1315,Australia,AU,-38.043127,145.297768
+546,79 Welch Park,Center,Atlanta,Georgia,GA,31165,United States,US,29.4390958,-98.487335
+547,4020 Steensland Crossing,Trail,Hicksville,New York,NY,11854,United States,US,40.77,-73.53
+548,7128 Merry Terrace,Drive,Columbus,Georgia,GA,31998,United States,US,32.46,-84.99
+549,16 Hooker Alley,Plaza,Los Angeles,California,CA,90094,United States,US,33.9744806,-118.4177707
+550,2935 Walton Avenue,Center,Hyattsville,Maryland,MD,20784,United States,US,38.9477341,-76.8807437
+551,2458 Northwestern Hill,Parkway,Eindhoven,Provincie Noord-Brabant,6,5619,Netherlands,NL,51.5244042,5.7576526
+552,752 Mifflin Junction,Way,Vigo,Galicia,GA,36205,Spain,ES,42.229169,-8.7026991
+553,3 Sunnyside Avenue,Avenue,Tilburg,Provincie Noord-Brabant,6,5034,Netherlands,NL,51.5742615,5.0840393
+554,8 Pennsylvania Place,Place,Launceston,Tasmania,TAS,7904,Australia,AU,-41.4332215,147.1440875
+555,94 Onsgard Plaza,Hill,Harrisburg,Pennsylvania,PA,17121,United States,US,40.2684396,-76.8832658
+556,28 Service Road,Crossing,Voorburg,Provincie Zuid-Holland,11,2274,Netherlands,NL,52.0726169,4.3505874
+557,7 Donald Court,Trail,Zwolle,Provincie Overijssel,15,8019,Netherlands,NL,52.5019685,6.0684306
+558,8704 Pierstorff Drive,Center,Marietta,Georgia,GA,30061,United States,US,33.9491123,-84.5507433
+559,6 Moland Hill,Parkway,Lansing,Michigan,MI,48919,United States,US,42.7282811,-84.5511177
+560,1 Kinsman Place,Hill,Miami,Florida,FL,33158,United States,US,25.6387878,-80.3073826
+561,70 Sutherland Junction,Hill,Jacksonville,Florida,FL,32244,United States,US,30.2102306,-81.7458845
+562,43315 Towne Park,Point,Burgkirchen,Oberösterreich,4,5271,Austria,AT,48.1933831,13.1657762
+563,8 Sunfield Hill,Road,Cincinnati,Ohio,OH,45264,United States,US,39.14,-84.54
+564,7 Alpine Alley,Terrace,Adelaide Mail Centre,South Australia,SA,5889,Australia,AU,-34.990888,138.574391
+565,2 Jay Point,Lane,Genova,Liguria,LG,16135,Italy,IT,44.4248175,8.9266041
+566,57306 Doe Crossing Center,Crossing,Santander,Cantabria,CB,39080,Spain,ES,43.4598651,-3.8057968
+567,20663 Helena Hill,Point,Columbus,Ohio,OH,43210,United States,US,39.9990626,-83.0173386
+568,5618 Eagle Crest Alley,Terrace,Milwaukee,Wisconsin,WI,53205,United States,US,43.0543956,-87.9383822
+569,23478 Lyons Plaza,Circle,Badajoz,Extremadura,EX,6005,Spain,ES,38.8744567,-6.9786326
+570,56384 Forster Circle,Lane,Jacksonville,Florida,FL,32204,United States,US,30.3152434,-81.6856808
+571,06 Portage Street,Circle,Saarbrücken,Saarland,SL,66119,Germany,DE,49.2088164,7.0075837
+572,4006 Express Avenue,Trail,Long Beach,California,CA,90831,United States,US,33.7684556,-118.2022212
+573,33167 Weeping Birch Court,Court,Dresden,Sachsen,SN,1189,Germany,DE,51.0144934,13.6972162
+574,69536 Utah Junction,Pass,El Paso,Texas,TX,88525,United States,US,31.77,-106.43
+575,3794 Arizona Trail,Way,New York City,New York,NY,10131,United States,US,40.7681987,-73.9608428
+576,82531 Dottie Trail,Way,Zamora,Castilla - Leon,CL,49003,Spain,ES,41.5044882,-5.7434763
+577,33878 Thackeray Pass,Terrace,Vienna,Virginia,VA,22184,United States,US,33.5177039,-117.693138
+578,5915 Hauk Hill,Way,Hampton,Virginia,VA,23663,United States,US,37.0279431,-76.3116235
+579,253 Kedzie Park,Road,Telde,Canarias,CN,35213,Spain,ES,28.00872,-15.3980224
+580,99 Sundown Hill,Lane,Los Angeles,California,CA,90076,United States,US,34.06,-118.31
+581,084 Rieder Way,Trail,Florence,South Carolina,SC,29505,United States,US,34.1289479,-79.6838874
+582,21 Dexter Pass,Trail,Amarillo,Texas,TX,79176,United States,US,32.9578909,-102.8518139
+583,683 Hovde Court,Place,München,Bayern,BY,80995,Germany,DE,48.2115037,11.5131806
+584,50 Acker Road,Circle,Enschede,Provincie Overijssel,15,7509,Netherlands,NL,52.211713,6.8954592
+585,8 Lakewood Street,Terrace,Tacoma,Washington,WA,98442,United States,US,47.2420053,-122.4206086
+586,92799 Bonner Road,Crossing,Fresno,California,CA,93773,United States,US,36.74,-119.8
+587,81 Shasta Park,Court,Fresno,California,CA,93762,United States,US,29.4743666,-98.5165167
+588,49 Park Meadow Place,Point,Zaragoza,Aragon,AR,50080,Spain,ES,41.6286623,-0.8744828
+589,7 Gulseth Alley,Hill,Winston Salem,North Carolina,NC,27150,United States,US,36.0978298,-80.2438321
+590,8095 Florence Road,Park,Chico,California,CA,95973,United States,US,39.7284944,-121.8374777
+591,30221 Stone Corner Alley,Way,Miami,Florida,FL,33169,United States,US,25.9400585,-80.2153998
+592,4037 Surrey Lane,Drive,New York City,New York,NY,10039,United States,US,40.8288377,-73.9374517
+593,58992 Dennis Drive,Place,Phoenix,Arizona,AZ,85062,United States,US,33.45,-111.97
+594,31549 Artisan Court,Center,Des Moines,Iowa,IA,50320,United States,US,41.5359175,-93.5711466
+595,5 Artisan Drive,Trail,Englewood,Colorado,CO,80150,United States,US,39.6476577,-104.9984484
+596,91393 Briar Crest Road,Park,Charlotte,North Carolina,NC,28263,United States,US,35.21,-80.69
+597,30939 Reindahl Alley,Center,Springfield,Missouri,MO,65898,United States,US,37.235499,-93.2478638
+598,47 Spohn Park,Avenue,Rochester,New York,NY,14609,United States,US,43.1770344,-77.5504779
+599,89 Tony Terrace,Parkway,Fort Wayne,Indiana,IN,46857,United States,US,41.07,-85.14
+600,36 Northwestern Center,Center,Toledo,Ohio,OH,43666,United States,US,41.64,-83.54
+601,610 Melby Street,Pass,Evansville,Indiana,IN,47719,United States,US,38.0515795,-87.6876112
+602,8 Meadow Valley Park,Trail,Shawnee Mission,Kansas,KS,66286,United States,US,39.02,-94.72
+603,561 Arkansas Road,Junction,Hengelo,Provincie Overijssel,15,7554,Netherlands,NL,52.222516,6.7371965
+604,0 Sullivan Way,Trail,Portland,Oregon,OR,97240,United States,US,45.5220648,-122.6757228
+605,2 Eagle Crest Circle,Circle,West Palm Beach,Florida,FL,33405,United States,US,26.6654996,-80.0590804
+606,75 Green Ridge Alley,Crossing,Tampa,Florida,FL,33661,United States,US,27.96,-82.53
+607,846 Scoville Center,Court,Dordrecht,Provincie Zuid-Holland,11,3324,Netherlands,NL,51.7783026,4.693265
+608,98840 Holmberg Road,Circle,Denver,Colorado,CO,80249,United States,US,39.8786639,-104.6821048
+609,4 Sloan Point,Place,Philadelphia,Pennsylvania,PA,19146,United States,US,39.9396284,-75.1866396
+610,55804 Tony Plaza,Drive,Columbia,Missouri,MO,65211,United States,US,38.9331391,-92.3738037
+611,23 Everett Avenue,Point,Honolulu,Hawaii,HI,96805,United States,US,21.31,-157.86
+612,9910 North Road,Lane,Schiedam postbusnummers,Provincie Zuid-Holland,11,3104,Netherlands,NL,51.883,4.3577
+613,4367 Hauk Plaza,Crossing,San Diego,California,CA,92127,United States,US,33.0227476,-117.1382404
+614,107 Hoard Pass,Park,Irvine,California,CA,92619,United States,US,33.6682421,-117.7659237
+615,4 Tony Court,Crossing,Sankt Lorenzen im Mürztal,Steiermark,6,8644,Austria,AT,47.4906719,15.39185
+616,13 Lawn Avenue,Terrace,Evansville,Indiana,IN,47747,United States,US,38.03,-87.58
+617,45685 Melby Terrace,Park,Sydney,New South Wales,NSW,1028,Australia,AU,-34.0349557,151.0998291
+618,3291 Delladonna Point,Trail,New York City,New York,NY,10150,United States,US,40.7582228,-73.9704871
+619,394 Melrose Street,Way,Naples,Florida,FL,34108,United States,US,26.2448015,-81.8115051
+620,4132 Beilfuss Circle,Circle,New Orleans,Louisiana,LA,70116,United States,US,29.9653661,-90.0629989
+621,903 Oxford Plaza,Place,Valladolid,Castilla - Leon,CL,47010,Spain,ES,41.6704519,-4.7135268
+622,35 Clarendon Crossing,Park,Roanoke,Virginia,VA,24009,United States,US,37.27,-79.94
+623,93333 Randy Park,Road,Launceston,Tasmania,TAS,7916,Australia,AU,-41.4332215,147.1440875
+624,6808 Lake View Avenue,Circle,Salt Lake City,Utah,UT,84125,United States,US,40.7,-111.94
+625,5611 Eagle Crest Pass,Terrace,Omaha,Nebraska,NE,68144,United States,US,41.2340369,-96.1155932
+626,2 Pankratz Point,Circle,Tallahassee,Florida,FL,32314,United States,US,30.4124334,-84.2831162
+627,680 Lotheville Street,Circle,Durham,North Carolina,NC,27710,United States,US,36.0038131,-78.9387241
+628,13907 East Place,Plaza,Newark,Delaware,DE,19725,United States,US,39.68,-75.75
+629,3999 Mifflin Street,Crossing,Wilkes Barre,Pennsylvania,PA,18763,United States,US,41.2505888,-75.8520879
+630,993 Anzinger Street,Place,Valencia,Comunidad Valenciana,VC,46015,Spain,ES,39.4798873,-0.3979657
+631,951 New Castle Crossing,Point,Denton,Texas,TX,76205,United States,US,33.1837961,-97.1305536
+632,951 Westport Circle,Terrace,Sevilla,Andalucia,AN,41015,Spain,ES,37.439299,-5.9885456
+633,29349 Buell Pass,Park,Whittier,California,CA,90605,United States,US,33.9548846,-118.0273914
+634,336 Gerald Alley,Circle,Fuenlabrada,Madrid,MD,28944,Spain,ES,40.2748289,-3.7968574
+635,7012 5th Court,Way,Irvine,California,CA,92619,United States,US,33.6682421,-117.7659237
+636,79 Iowa Point,Pass,Leon,Castilla - Leon,CL,24010,Spain,ES,42.5944931,-5.6195112
+637,2370 Sunbrook Hill,Way,Akron,Ohio,OH,44321,United States,US,41.0875099,-81.6363869
+638,773 Rusk Circle,Parkway,Wichita,Kansas,KS,67236,United States,US,37.8010824,-97.3317391
+639,13 Southridge Hill,Lane,Sunnyvale,California,CA,94089,United States,US,37.4110966,-122.0181762
+640,64 Banding Alley,Street,Sioux Falls,South Dakota,SD,57105,United States,US,43.521619,-96.722641
+641,24 Esker Court,Terrace,San Antonio,Texas,TX,78220,United States,US,29.4143476,-98.3910127
+642,3984 Tennyson Drive,Way,Atlanta,Georgia,GA,31119,United States,US,33.8524536,-84.3679295
+643,0 Sachs Street,Terrace,Akron,Ohio,OH,44310,United States,US,41.1024492,-81.4992884
+644,2743 Union Parkway,Center,Mountain View,California,CA,94042,United States,US,37.3931794,-122.0778761
+645,6146 Corry Terrace,Center,Perth,Western Australia,WA,6817,Australia,AU,-31.9505269,115.8604572
+646,9451 Loomis Parkway,Avenue,Sydney,New South Wales,NSW,1191,Australia,AU,-33.7974423,151.2502275
+647,12 Columbus Trail,Terrace,Seminole,Florida,FL,34642,United States,US,42.4395419,-83.3155257
+648,606 Pond Park,Parkway,Winter Haven,Florida,FL,33884,United States,US,27.9890156,-81.6802054
+649,3 Rieder Pass,Lane,Topeka,Kansas,KS,66611,United States,US,39.0105228,-95.6931356
+650,9329 Burrows Crossing,Terrace,Kassel,Hessen,HE,34132,Germany,DE,51.2804955,9.4266475
+651,8 Comanche Avenue,Terrace,Naples,Florida,FL,34108,United States,US,26.2448015,-81.8115051
+652,907 Stuart Park,Avenue,Springfield,Massachusetts,MA,1129,United States,US,42.1144473,-72.4909026
+653,7 Thierer Lane,Drive,Columbus,Ohio,OH,43240,United States,US,40.1420033,-82.9770371
+654,97 Pleasure Drive,Terrace,Tallahassee,Florida,FL,32309,United States,US,30.5547139,-84.0801613
+655,18 Dwight Center,Pass,Miami,Florida,FL,33169,United States,US,25.9400585,-80.2153998
+656,22570 Arizona Center,Point,Stockton,California,CA,95205,United States,US,37.9642589,-121.2569138
+657,269 Mockingbird Trail,Hill,Monroe,Louisiana,LA,71213,United States,US,32.53,-92.08
+658,87 Artisan Circle,Terrace,Canton,Ohio,OH,44710,United States,US,40.7886028,-81.4251512
+659,7 Raven Court,Lane,Boulder,Colorado,CO,80305,United States,US,39.9799992,-105.248737
+660,98 Union Hill,Plaza,Albuquerque,New Mexico,NM,87140,United States,US,35.0820413,-106.6478031
+661,67086 Goodland Trail,Street,Heerlen,Provincie Limburg,5,6404,Netherlands,NL,50.9212447,5.9651892
+662,571 Pearson Center,Court,Leiden,Provincie Zuid-Holland,11,2329,Netherlands,NL,52.1513886,4.4982869
+663,01047 Manitowish Terrace,Park,Pittsburgh,Pennsylvania,PA,15266,United States,US,40.5053499,-80.04928
+664,279 Debra Street,Road,Cleveland,Ohio,OH,44185,United States,US,42.3662435,-83.3270994
+665,6100 Burning Wood Avenue,Alley,El Paso,Texas,TX,88553,United States,US,31.77,-106.43
+666,85602 Saint Paul Avenue,Drive,Haarlem,Provincie Noord-Holland,7,2029,Netherlands,NL,52.3626877,4.6195236
+667,755 John Wall Street,Point,Grand Rapids,Michigan,MI,49560,United States,US,42.9115599,-85.6264635
+668,0094 Grim Pass,Alley,New York City,New York,NY,10045,United States,US,40.708873,-74.0093553
+669,0381 Melby Center,Park,Stamford,Connecticut,CT,6912,United States,US,41.05,-73.54
+670,09 Grayhawk Road,Place,Fuenlabrada,Madrid,MD,28944,Spain,ES,40.2748289,-3.7968574
+671,99845 Acker Street,Terrace,Danbury,Connecticut,CT,6816,United States,US,41.4066243,-73.4077076
+672,6901 Elka Crossing,Park,Karlsruhe,Baden-Württemberg,BW,76199,Germany,DE,48.9728482,8.4060268
+673,8535 Hooker Plaza,Circle,Katwijk,Provincie Zuid-Holland,11,2228,Netherlands,NL,51.8891035,5.9269366
+674,57 Ryan Pass,Way,Hartford,Connecticut,CT,6105,United States,US,41.7721061,-72.7038047
+675,4879 Iowa Way,Park,Cincinnati,Ohio,OH,45249,United States,US,39.2708955,-84.3279093
+676,646 Kipling Terrace,Trail,Norfolk,Virginia,VA,23509,United States,US,36.8854128,-76.2652909
+677,093 Anzinger Center,Street,Tucson,Arizona,AZ,85715,United States,US,32.2514545,-110.8374104
+678,86637 John Wall Hill,Parkway,Richmond,California,CA,94807,United States,US,37.93,-122.38
+679,050 Hoffman Lane,Circle,Baltimore,Maryland,MD,21281,United States,US,39.2957066,-76.5697075
+680,08883 Sullivan Circle,Pass,Indianapolis,Indiana,IN,46295,United States,US,39.67,-86.19
+681,74 Springs Crossing,Road,Houston,Texas,TX,77075,United States,US,29.6211025,-95.2632201
+682,902 Maple Lane,Junction,Kansas City,Missouri,MO,64130,United States,US,39.0345609,-94.5521274
+683,80878 Kropf Terrace,Drive,Remscheid,Nordrhein-Westfalen,NW,42897,Germany,DE,51.1730117,7.2822788
+684,34 Jay Terrace,Park,Rochester,Minnesota,MN,55905,United States,US,44.0557303,-92.5253639
+685,9641 Hermina Parkway,Parkway,Jacksonville,Florida,FL,32209,United States,US,30.3617348,-81.6966306
+686,57698 Elgar Parkway,Point,Sabadell,Cataluna,CT,8204,Spain,ES,41.5281384,2.1143422
+687,8 East Street,Street,Luzern,Kanton Luzern,LU,6015,Switzerland,CH,47.0641228,8.2785907
+688,0 Heath Street,Way,Washington,District of Columbia,DC,20380,United States,US,38.92,-76.99
+689,0 Northridge Center,Avenue,Tacoma,Washington,WA,98405,United States,US,47.2457073,-122.4773432
+690,2 Northview Circle,Lane,Valencia,Comunidad Valenciana,VC,46015,Spain,ES,39.4798873,-0.3979657
+691,56189 Colorado Pass,Place,Wilmington,Delaware,DE,19805,United States,US,39.7472496,-75.5917092
+692,8 Crowley Pass,Junction,Cincinnati,Ohio,OH,45213,United States,US,39.1822152,-84.4225186
+693,5209 American Ash Lane,Road,Denton,Texas,TX,76210,United States,US,33.1362221,-97.0821162
+694,8301 Bashford Parkway,Terrace,Dulles,Virginia,VA,20189,United States,US,38.9,-77.04
+695,13834 Hallows Park,Hill,Alkmaar,Provincie Noord-Holland,7,1804,Netherlands,NL,52.6325793,4.7239896
+696,1587 Norway Maple Point,Circle,Washington,District of Columbia,DC,20546,United States,US,38.8827087,-77.0163235
+697,13 Valley Edge Drive,Point,Cedar Rapids,Iowa,IA,52410,United States,US,41.9799999,-91.66
+698,75484 South Avenue,Pass,Messina,Sicilia,SC,98157,Italy,IT,38.2739241,15.5562304
+699,48676 Butterfield Parkway,Center,Lees Summit,Missouri,MO,64082,United States,US,38.8525512,-94.4079213
+700,62 Fisk Crossing,Point,Sankt Lorenzen im Mürztal,Steiermark,6,8644,Austria,AT,47.4906719,15.39185
+701,78 Mcguire Pass,Trail,San Diego,California,CA,92132,United States,US,32.7150419,-117.1724288
+702,7 Elka Road,Road,Wilmington,Delaware,DE,19810,United States,US,39.817642,-75.5101999
+703,42187 Farmco Trail,Point,Merrifield,Virginia,VA,22119,United States,US,38.87,-77.23
+704,36300 Havey Circle,Road,Augsburg,Bayern,BY,86156,Germany,DE,48.3920947,10.8553557
+705,2 Comanche Park,Crossing,Shreveport,Louisiana,LA,71151,United States,US,32.53,-93.75
+706,6866 Grasskamp Drive,Trail,Sacramento,California,CA,95818,United States,US,38.5603056,-121.4970294
+707,0 North Plaza,Way,Spring,Texas,TX,77386,United States,US,30.1185635,-95.3730176
+708,4 Cardinal Parkway,Street,Roma,Lazio,LZ,141,Italy,IT,41.9391449,12.532671
+709,80074 Karstens Junction,Drive,Knoxville,Tennessee,TN,37995,United States,US,35.95,-84.02
+710,99860 Hayes Pass,Court,Boulder,Colorado,CO,80305,United States,US,39.9799992,-105.248737
+711,3 Granby Parkway,Street,Tucson,Arizona,AZ,85705,United States,US,32.2680738,-110.9923904
+712,9 Garrison Avenue,Point,Salzburg,Salzburg,5,5071,Austria,AT,47.7728849,12.9695096
+713,503 Kinsman Drive,Alley,Zwolle,Provincie Overijssel,15,8019,Netherlands,NL,52.5019685,6.0684306
+714,15 Butternut Plaza,Point,Basel,Kanton Basel-Stadt,BS,4085,Switzerland,CH,47.4978346,7.5961692
+715,766 Memorial Drive,Way,Los Angeles,California,CA,90040,United States,US,33.9930471,-118.153228
+716,67219 Lakewood Gardens Court,Center,Dordrecht,Provincie Zuid-Holland,11,3309,Netherlands,NL,51.7783026,4.693265
+717,70137 Arizona Court,Way,Birmingham,Alabama,AL,35290,United States,US,33.52,-86.8
+718,54393 Wayridge Center,Crossing,Leeuwarden,Provincie Friesland,2,8924,Netherlands,NL,53.2065166,5.8271439
+719,1 Towne Terrace,Crossing,Schiedam postbusnummers,Provincie Zuid-Holland,11,3104,Netherlands,NL,51.883,4.3577
+720,5717 Claremont Trail,Alley,Charlotte,North Carolina,NC,28230,United States,US,35.22,-80.83
+721,5671 Hanson Way,Court,Des Moines,Iowa,IA,50369,United States,US,41.6,-93.61
+722,65 Fallview Avenue,Place,Las Vegas,Nevada,NV,89155,United States,US,36.164846,-115.155709
+723,704 Florence Court,Point,Sydney,New South Wales,NSW,1028,Australia,AU,-34.0349557,151.0998291
+724,51283 Michigan Alley,Trail,Fresno,California,CA,93726,United States,US,36.7949518,-119.7541856
+725,528 Loomis Trail,Pass,Tampa,Florida,FL,33686,United States,US,27.8684314,-82.5270388
+726,01019 Canary Crossing,Lane,New York City,New York,NY,10175,United States,US,40.7544003,-73.9801334
+727,04323 Russell Place,Point,Philadelphia,Pennsylvania,PA,19172,United States,US,39.95,-75.16
+728,561 Memorial Point,Trail,Berlin,Berlin,BE,10715,Germany,DE,52.4837296,13.3304798
+729,53 Evergreen Pass,Road,Adelaide Mail Centre,South Australia,SA,5874,Australia,AU,-34.990888,138.574391
+730,71717 Springview Hill,Junction,Leiden,Provincie Zuid-Holland,11,2304,Netherlands,NL,52.1513886,4.4982869
+731,9 Service Plaza,Plaza,Brooklyn,New York,NY,11247,United States,US,40.68,-73.95
+732,421 Melby Road,Alley,Tampa,Florida,FL,33647,United States,US,28.1434318,-82.3343375
+733,9158 Steensland Lane,Circle,Columbia,South Carolina,SC,29220,United States,US,34.0067522,-81.0330246
+734,84 Buell Drive,Alley,Alkmaar,Provincie Noord-Holland,7,1819,Netherlands,NL,52.6435136,4.7270746
+735,1 Shopko Center,Lane,Charlotte,North Carolina,NC,28289,United States,US,35.2299999,-80.84
+736,2815 Grim Court,Avenue,Provo,Utah,UT,84605,United States,US,40.2299999,-111.66
+737,121 Forest Dale Place,Lane,Valladolid,Castilla - Leon,CL,47010,Spain,ES,41.6704519,-4.7135268
+738,564 Carey Place,Alley,Naples,Florida,FL,34114,United States,US,25.9369686,-81.5596427
+739,4 Sheridan Trail,Crossing,Milano,Lombardia,LM,20125,Italy,IT,45.4972764,9.203123
+740,10607 Rowland Street,Point,New Haven,Connecticut,CT,6510,United States,US,41.3052226,-72.9268626
+741,96 Moulton Trail,Way,Tucson,Arizona,AZ,85732,United States,US,32.229334,-110.8772009
+742,869 Bellgrove Hill,Court,Columbus,Georgia,GA,31914,United States,US,32.56,-85
+743,4101 Stephen Hill,Trail,Jamaica,New York,NY,11407,United States,US,40.6998888,-73.8076421
+744,0275 Mendota Plaza,Park,Winter Haven,Florida,FL,33884,United States,US,27.9890156,-81.6802054
+745,049 Moose Road,Terrace,Austin,Texas,TX,78764,United States,US,30.27,-97.74
+746,1 Susan Junction,Court,Villach,Kaernten,2,9580,Austria,AT,46.5919484,13.9234172
+747,03891 Loomis Alley,Point,Zwolle,Provincie Overijssel,15,8029,Netherlands,NL,52.5112898,6.092908
+748,3576 Walton Lane,Place,Almelo,Provincie Overijssel,15,7604,Netherlands,NL,52.3517146,6.624795
+749,88 Mallard Plaza,Avenue,Atlanta,Georgia,GA,31106,United States,US,33.75,-84.39
+750,54 Tony Point,Terrace,Pueblo,Colorado,CO,81010,United States,US,38.2743989,-104.6086995
+751,7960 Glendale Road,Center,Großklein,Steiermark,6,8453,Austria,AT,46.737224,15.4424776
+752,3234 Northport Avenue,Junction,Chicago,Illinois,IL,60630,United States,US,41.9720786,-87.7517295
+753,5958 Kenwood Drive,Parkway,Louisville,Kentucky,KY,40225,United States,US,38.2,-85.7
+754,504 Jackson Pass,Pass,Hannover,Niedersachsen,NI,30629,Germany,DE,52.3927372,9.8476686
+755,95 Melby Pass,Plaza,Omaha,Nebraska,NE,68105,United States,US,41.2418116,-95.9673967
+756,70 Ronald Regan Street,Road,Napoli,Campania,CM,80141,Italy,IT,40.8782107,14.2657584
+757,2 Holy Cross Park,Point,Hamilton,Ohio,OH,45020,United States,US,39.4721887,-84.4772033
+758,62225 Debra Court,Plaza,Charleston,West Virginia,WV,25331,United States,US,38.35,-81.63
+759,81086 Harbort Street,Terrace,Racine,Wisconsin,WI,53405,United States,US,42.7333428,-87.8255014
+760,38 Kinsman Avenue,Hill,Leganes,Madrid,MD,28914,Spain,ES,40.3319506,-3.7686545
+761,0 Goodland Drive,Terrace,Evansville,Indiana,IN,47747,United States,US,38.03,-87.58
+762,698 Killdeer Place,Drive,Milwaukee,Wisconsin,WI,53277,United States,US,42.3745311,-88.1263369
+763,959 Maple Wood Parkway,Court,Sydney,New South Wales,NSW,1043,Australia,AU,-33.8688197,151.2092955
+764,7 Roth Junction,Circle,Durham,North Carolina,NC,27717,United States,US,35.99,-78.9
+765,767 Butternut Terrace,Junction,Dordrecht,Provincie Zuid-Holland,11,3309,Netherlands,NL,51.7783026,4.693265
+766,2459 Cody Place,Place,Fresno,California,CA,93726,United States,US,36.7949518,-119.7541856
+767,2782 Nobel Pass,Avenue,Dallas,Texas,TX,75287,United States,US,32.9985237,-96.84046
+768,9 Pine View Center,Trail,Fuenlabrada,Madrid,MD,28944,Spain,ES,40.2748289,-3.7968574
+769,9931 Sunnyside Park,Park,Palatine,Illinois,IL,60078,United States,US,42.1165506,-88.0549221
+770,31830 Mccormick Park,Pass,Berlin,Berlin,BE,12559,Germany,DE,52.416925,13.6492904
+771,6483 Thierer Alley,Court,Little Rock,Arkansas,AR,72209,United States,US,34.6741181,-92.3517526
+772,5 Merchant Way,Avenue,Beverwijk,Provincie Noord-Holland,7,1944,Netherlands,NL,52.4927381,4.6490303
+773,66422 Troy Road,Hill,Miami Beach,Florida,FL,33141,United States,US,25.8535635,-80.1484407
+774,482 Rowland Park,Center,Zürich,Kanton Zürich,ZH,8004,Switzerland,CH,47.3807562,8.517289
+775,4 Swallow Road,Road,Billings,Montana,MT,59112,United States,US,45.78,-108.5
+776,44746 Arrowood Plaza,Street,Jefferson City,Missouri,MO,65110,United States,US,38.5,-92.15
+777,78 Linden Drive,Park,Graz,Steiermark,6,8047,Austria,AT,47.0765556,15.5109999
+778,95 Lillian Avenue,Drive,Münster,Nordrhein-Westfalen,NW,48161,Germany,DE,51.9601912,7.5468477
+779,5068 Anzinger Junction,Way,Kerkrade,Provincie Limburg,5,6464,Netherlands,NL,50.8777778,6.0781852
+780,25692 Trailsway Plaza,Hill,Boston,Massachusetts,MA,2298,United States,US,42.34,-71.05
+781,5336 Mayfield Court,Trail,Dillenburg,Hessen,HE,35687,Germany,DE,50.7218455,8.3073813
+782,08838 Aberg Park,Point,Fort Worth,Texas,TX,76178,United States,US,32.7526842,-97.3264658
+783,26410 Mallard Point,Circle,Rotterdam,Provincie Zuid-Holland,11,3094,Netherlands,NL,51.897904,4.473358
+784,73208 Stoughton Drive,Trail,Santa Barbara,California,CA,93106,United States,US,34.4135868,-119.8496976
+785,69 4th Street,Court,Santander,Cantabria,CB,39080,Spain,ES,43.4598651,-3.8057968
+786,3 Miller Court,Junction,Canton,Ohio,OH,44710,United States,US,40.7886028,-81.4251512
+787,972 Bonner Plaza,Hill,Bern,Kanton Bern,BE,3011,Switzerland,CH,46.949235,7.4439108
+788,29127 Holy Cross Hill,Junction,Palmas De Gran Canaria Las,Canarias,CN,35010,Spain,ES,28.1328796,-15.4393074
+789,0554 Petterle Park,Park,Sioux Falls,South Dakota,SD,57105,United States,US,43.521619,-96.722641
+790,8 Ruskin Parkway,Lane,Salt Lake City,Utah,UT,84115,United States,US,40.7177351,-111.8985922
+791,3 Fordem Center,Place,Shreveport,Louisiana,LA,71137,United States,US,32.59,-93.85
+792,50 Utah Street,Way,Cincinnati,Ohio,OH,45254,United States,US,39.0745039,-84.33211
+793,77 Service Plaza,Park,Milano,Lombardia,LM,20158,Italy,IT,45.5000316,9.1690428
+794,5193 Waxwing Pass,Center,Louisville,Kentucky,KY,40225,United States,US,38.2,-85.7
+795,3 Ramsey Terrace,Lane,Rochester,New York,NY,14609,United States,US,43.1770344,-77.5504779
+796,6 Michigan Way,Drive,Nijmegen,Provincie Gelderland,3,6539,Netherlands,NL,51.8417492,5.8715134
+797,5922 Jackson Crossing,Avenue,Eastern Suburbs Mc,New South Wales,NSW,1325,Australia,AU,-33.93274,151.188577
+798,579 Bluestem Lane,Point,Hamburg,Hamburg,HH,22769,Germany,DE,53.5662722,9.9471012
+799,11153 Sycamore Pass,Lane,Palma De Mallorca,Baleares,IB,7121,Spain,ES,39.6343248,2.631838
+800,9 Oneill Court,Way,Veghel,Provincie Noord-Brabant,6,5464,Netherlands,NL,51.630114,5.5807167
+801,2120 Menomonie Lane,Crossing,Mainz,Rheinland-Pfalz,RP,55124,Germany,DE,50.0022253,8.1937267
+802,22 Lighthouse Bay Point,Alley,Albacete,Castilla - La Mancha,CM,2005,Spain,ES,38.994349,-1.8585424
+803,3 Coleman Avenue,Crossing,Oklahoma City,Oklahoma,OK,73142,United States,US,35.6131551,-97.6385368
+804,1 International Avenue,Pass,Saint Paul,Minnesota,MN,55123,United States,US,44.7984858,-93.1277854
+805,68 Holy Cross Road,Parkway,Madrid,Madrid,MD,28025,Spain,ES,40.378739,-3.7358924
+806,8 Hoard Pass,Hill,Ourense,Galicia,GA,32005,Spain,ES,42.3233666,-7.8585562
+807,758 Algoma Center,Point,Enschede,Provincie Overijssel,15,7534,Netherlands,NL,52.2051033,6.9450818
+808,92 Green Park,Court,Fresno,California,CA,93704,United States,US,36.7757374,-119.8062912
+809,29860 Tomscot Avenue,Place,Chicago,Illinois,IL,60604,United States,US,41.8784851,-87.627893
+810,9458 Victoria Junction,Way,Torino,Piemonte,PM,10129,Italy,IT,45.054478,7.6579399
+811,9 Armistice Plaza,Circle,Atlanta,Georgia,GA,30358,United States,US,33.9216582,-84.3772367
+812,5 Shasta Parkway,Way,Chicago,Illinois,IL,60681,United States,US,41.88,-87.62
+813,8906 Straubel Center,Lane,Chicago,Illinois,IL,60674,United States,US,41.88,-87.63
+814,31 Clemons Court,Terrace,Delft,Provincie Zuid-Holland,11,2624,Netherlands,NL,51.991495,4.3557381
+815,6310 Hoard Avenue,Plaza,Cleveland,Ohio,OH,44185,United States,US,42.3662435,-83.3270994
+816,481 Surrey Drive,Lane,Zwettl,Niederösterreich,3,3923,Austria,AT,48.6386409,15.0253027
+817,82 Pankratz Terrace,Court,Logroño,La Rioja,RI,26070,Spain,ES,42.4576548,-2.4407498
+818,25294 Eggendart Place,Plaza,Genova,Liguria,LG,16157,Italy,IT,44.4421587,8.7866738
+819,107 Gina Terrace,Point,Houston,Texas,TX,77260,United States,US,32.9536923,-96.816156
+820,51 Ridgeview Park,Drive,Madrid,Madrid,MD,28020,Spain,ES,40.4563733,-3.6952896
+821,183 Darwin Circle,Court,Salt Lake City,Utah,UT,84170,United States,US,40.7,-111.99
+822,3 7th Alley,Drive,Vancouver,Washington,WA,98682,United States,US,45.6585294,-122.4979879
+823,0 Miller Avenue,Hill,Eindhoven,Provincie Noord-Brabant,6,5609,Netherlands,NL,51.5244042,5.7576526
+824,7 Westridge Court,Lane,Newton,Massachusetts,MA,2162,United States,US,40.7679191,-93.3362962
+825,088 Banding Road,Crossing,Tulsa,Oklahoma,OK,74193,United States,US,36.15,-96
+826,020 Havey Point,Point,Philadelphia,Pennsylvania,PA,19125,United States,US,39.9793657,-75.1253492
+827,20243 Oak Way,Lane,Nieuwegein,Provincie Utrecht,9,3439,Netherlands,NL,52.0330418,5.1055921
+828,5 Blue Bill Park Road,Lane,San Jose,California,CA,95194,United States,US,37.39,-121.89
+829,0214 High Crossing Crossing,Parkway,Gijon,Asturias,AS,33209,Spain,ES,43.5162166,-5.664252
+830,63436 Texas Circle,Park,Washington,District of Columbia,DC,20337,United States,US,42.5420213,-91.1118075
+831,8536 Butternut Alley,Trail,Olympia,Washington,WA,98506,United States,US,47.0378741,-122.9006951
+832,392 Morning Alley,Parkway,Flushing,New York,NY,11355,United States,US,40.7493096,-73.8213213
+833,15 Corry Court,Drive,Rochester,New York,NY,14652,United States,US,43.15,-77.63
+834,72 Schurz Junction,Circle,Wuppertal,Nordrhein-Westfalen,NW,42349,Germany,DE,51.2034374,7.1301012
+835,628 Kinsman Hill,Alley,Savannah,Georgia,GA,31416,United States,US,32.0056072,-81.0973279
+836,41768 Lien Alley,Avenue,Milano,Lombardia,LM,20136,Italy,IT,45.4476447,9.1855974
+837,82986 Coleman Alley,Plaza,Columbus,Ohio,OH,43210,United States,US,39.9990626,-83.0173386
+838,34395 Hoffman Park,Crossing,Saint Paul,Minnesota,MN,55188,United States,US,44.9468994,-92.9105987
+839,56243 Shoshone Trail,Alley,Springfield,Illinois,IL,62764,United States,US,39.7761758,-89.6051502
+840,52468 Randy Center,Pass,Dordrecht,Provincie Zuid-Holland,11,3324,Netherlands,NL,51.7783026,4.693265
+841,008 Arapahoe Parkway,Center,Graz,Steiermark,6,8042,Austria,AT,47.0505635,15.4828066
+842,30832 Londonderry Pass,Terrace,Reno,Nevada,NV,89510,United States,US,40.0115285,-119.6962677
+843,1 Kropf Place,Junction,Tournai,Wallonie,WAL,7504,Belgium,BE,50.585206,3.3300918
+844,2 Glendale Parkway,Park,Omaha,Nebraska,NE,68164,United States,US,41.2899133,-96.0996978
+845,3370 Sutherland Lane,Drive,San Jose,California,CA,95113,United States,US,37.3326639,-121.8918364
+846,0451 Cordelia Street,Pass,Bussum,Provincie Noord-Holland,7,1404,Netherlands,NL,52.2766397,5.162358
+847,22924 Glendale Pass,Parkway,Breda,Provincie Noord-Brabant,6,4819,Netherlands,NL,51.5749006,4.7680893
+848,13 Moose Point,Drive,Dallas,Texas,TX,75277,United States,US,32.78,-96.8
+849,638 Spohn Center,Place,Newport News,Virginia,VA,23605,United States,US,37.0098187,-76.4273844
+850,86677 Lindbergh Lane,Center,Greensboro,North Carolina,NC,27415,United States,US,36.09,-79.78
+851,325 Beilfuss Plaza,Junction,Kansas City,Missouri,MO,64187,United States,US,39.1,-94.58
+852,3 Charing Cross Center,Parkway,Washington,District of Columbia,DC,20404,United States,US,38.8993417,-77.0091334
+853,33774 Carberry Junction,Plaza,Winter Haven,Florida,FL,33884,United States,US,27.9890156,-81.6802054
+854,49774 Carioca Lane,Lane,New Brunswick,New Jersey,NJ,8922,United States,US,40.496654,-74.446092
+855,60 Walton Circle,Park,Huntington,West Virginia,WV,25705,United States,US,38.409359,-82.3614632
+856,33839 School Court,Street,Grand Rapids,Michigan,MI,49544,United States,US,43.0283952,-85.7564107
+857,7093 2nd Pass,Lane,Madrid,Madrid,MD,28020,Spain,ES,40.4563733,-3.6952896
+858,5 Red Cloud Court,Trail,Sacramento,California,CA,94297,United States,US,38.58,-121.49
+859,9 Sutherland Circle,Hill,Seattle,Washington,WA,98158,United States,US,47.4494702,-122.307217
+860,97 High Crossing Street,Road,Schenectady,New York,NY,12305,United States,US,42.8129576,-73.9447994
+861,8 Waubesa Terrace,Park,Rochester,New York,NY,14652,United States,US,43.15,-77.63
+862,33 Namekagon Terrace,Drive,Bergen op Zoom,Provincie Noord-Brabant,6,4609,Netherlands,NL,51.5004971,4.2864439
+863,99732 Northland Park,Court,Las Vegas,Nevada,NV,89193,United States,US,36.09,-115.15
+864,84809 7th Crossing,Court,Johnson City,Tennessee,TN,37605,United States,US,36.31,-82.35
+865,30 Loeprich Center,Crossing,Pittsburgh,Pennsylvania,PA,15266,United States,US,40.5053499,-80.04928
+866,62 Talisman Park,Way,Kampen (Overijssel),Provincie Flevoland,16,8264,Netherlands,NL,52.5577627,5.8915635
+867,95132 Sunfield Park,Alley,Oklahoma City,Oklahoma,OK,73119,United States,US,35.4213103,-97.5734783
+868,8525 Doe Crossing Crossing,Way,Dillenburg,Hessen,HE,35687,Germany,DE,50.7218455,8.3073813
+869,3467 Bashford Place,Park,Tampa,Florida,FL,33615,United States,US,28.0003221,-82.5889012
+870,1 Homewood Trail,Lane,Miami Beach,Florida,FL,33141,United States,US,25.8535635,-80.1484407
+871,9169 Warbler Place,Junction,Newark,New Jersey,NJ,7104,United States,US,40.7758541,-74.1650991
+872,44232 Commercial Trail,Avenue,Sacramento,California,CA,94237,United States,US,38.58,-121.49
+873,3 Crownhardt Court,Parkway,Wiesbaden,Hessen,HE,65191,Germany,DE,50.0897141,8.271907
+874,31944 Jana Lane,Parkway,Berlin,Berlin,BE,10587,Germany,DE,52.5170826,13.3236611
+875,9 Mallard Avenue,Hill,Düsseldorf,Nordrhein-Westfalen,NW,40225,Germany,DE,51.1974375,6.7898817
+876,89725 Jana Alley,Hill,Gijon,Asturias,AS,33209,Spain,ES,43.5162166,-5.664252
+877,6 Luster Alley,Park,Villach,Kaernten,2,9580,Austria,AT,46.5919484,13.9234172
+878,0 Dayton Trail,Court,Donostia-San Sebastian,Pais Vasco,PV,20005,Spain,ES,43.3177929,-1.9814245
+879,90129 Butternut Terrace,Trail,Staten Island,New York,NY,10310,United States,US,40.6307451,-74.1181234
+880,21769 Debra Trail,Hill,Essen,Nordrhein-Westfalen,NW,45356,Germany,DE,51.4923815,6.9694303
+881,363 West Place,Place,Madison,Wisconsin,WI,53710,United States,US,43.0745339,-89.3805579
+882,524 Clemons Way,Road,Orlando,Florida,FL,32819,United States,US,28.4630493,-81.460856
+883,17112 Menomonie Crossing,Lane,Charlotte,North Carolina,NC,28289,United States,US,35.2299999,-80.84
+884,6132 Westerfield Pass,Crossing,Genova,Liguria,LG,16135,Italy,IT,44.4248175,8.9266041
+885,42 Reinke Street,Drive,Columbus,Georgia,GA,31914,United States,US,32.56,-85
+886,151 Dayton Alley,Alley,Greensboro,North Carolina,NC,27499,United States,US,36.1069958,-79.8522564
+887,50090 Fairfield Drive,Lane,Oklahoma City,Oklahoma,OK,73179,United States,US,35.4209352,-97.6656625
+888,8638 Mitchell Plaza,Terrace,Scottsdale,Arizona,AZ,85271,United States,US,33.47,-111.92
+889,26 Hoepker Way,Way,Berlin,Berlin,BE,13088,Germany,DE,52.5593051,13.4761485
+890,249 Hintze Pass,Junction,Cartagena,Murcia,MC,30394,Spain,ES,37.5968793,-1.0346774
+891,611 Towne Junction,Lane,Zaragoza,Aragon,AR,50080,Spain,ES,41.6286623,-0.8744828
+892,8959 Beilfuss Parkway,Plaza,New York City,New York,NY,10045,United States,US,40.708873,-74.0093553
+893,88 Shelley Drive,Road,Waco,Texas,TX,76705,United States,US,31.549333,-97.1466695
+894,00174 Brown Hill,Terrace,Jacksonville,Florida,FL,32204,United States,US,30.3152434,-81.6856808
+895,73 Riverside Terrace,Crossing,Villanova,Emilia-Romagna,ER,29010,Italy,IT,45.026845,9.9968284
+896,4874 Stone Corner Hill,Place,Kingsport,Tennessee,TN,37665,United States,US,36.5804277,-82.5753842
+897,6 Riverside Road,Circle,Dearborn,Michigan,MI,48126,United States,US,42.3382755,-83.1756188
+898,181 Del Sol Crossing,Place,Cincinnati,Ohio,OH,45249,United States,US,39.2708955,-84.3279093
+899,32948 Shasta Center,Alley,Grand Junction,Colorado,CO,81505,United States,US,39.0638705,-108.5506486
+900,365 Maple Alley,Drive,Perugia,Umbria,UM,6124,Italy,IT,43.1074675,12.3764587
+901,89 Pennsylvania Avenue,Hill,Messina,Sicilia,SC,98146,Italy,IT,38.1788095,15.4976181
+902,9066 Warrior Hill,Circle,Enschede,Provincie Overijssel,15,7504,Netherlands,NL,52.211713,6.8954592
+903,8841 North Place,Drive,Jeffersonville,Indiana,IN,47134,United States,US,38.34,-85.7
+904,6 Montana Lane,Court,Indianapolis,Indiana,IN,46295,United States,US,39.67,-86.19
+905,82554 Debra Parkway,Hill,Rosmalen,Provincie Noord-Brabant,6,5244,Netherlands,NL,51.7153134,5.397367
+906,12923 Talisman Way,Plaza,Austin,Texas,TX,78703,United States,US,30.2915328,-97.7688358
+907,69 Chive Point,Terrace,Fort Lauderdale,Florida,FL,33355,United States,US,26.11,-80.3
+908,484 Eagle Crest Plaza,Drive,Evansville,Indiana,IN,47747,United States,US,38.03,-87.58
+909,47711 Stang Trail,Junction,Hyattsville,Maryland,MD,20784,United States,US,38.9477341,-76.8807437
+910,99207 Fulton Drive,Drive,Tacoma,Washington,WA,98442,United States,US,47.2420053,-122.4206086
+911,61 Melody Plaza,Hill,Eindhoven,Provincie Noord-Brabant,6,5629,Netherlands,NL,51.490189,5.4711208
+912,7911 Vernon Alley,Drive,'s-Hertogenbosch,Provincie Noord-Brabant,6,5234,Netherlands,NL,51.7211356,5.2985109
+913,244 Lake View Crossing,Place,Independence,Missouri,MO,64054,United States,US,39.1063109,-94.4439365
+914,8 Truax Junction,Court,Scottsdale,Arizona,AZ,85271,United States,US,33.47,-111.92
+915,69592 Shasta Junction,Junction,Glendale,California,CA,91210,United States,US,34.144801,-118.2563169
+916,6 Shasta Park,Avenue,Cumming,Georgia,GA,30130,United States,US,35.1307639,-118.5882119
+917,08022 Forest Dale Alley,Lane,Boise,Idaho,ID,83722,United States,US,43.61,-116.2
+918,88 Division Pass,Park,Huntsville,Alabama,AL,35895,United States,US,34.7299999,-86.59
+919,495 East Park,Center,Philadelphia,Pennsylvania,PA,19178,United States,US,39.95,-75.18
+920,3 Summit Way,Pass,Fresno,California,CA,93726,United States,US,36.7949518,-119.7541856
+921,5228 Bartelt Point,Junction,Washington,District of Columbia,DC,20057,United States,US,38.9079399,-77.0717165
+922,57 Marcy Drive,Park,Charleston,West Virginia,WV,25331,United States,US,38.35,-81.63
+923,444 Merrick Park,Junction,Roma,Lazio,LZ,163,Italy,IT,41.8647615,12.3864842
+924,808 Manitowish Alley,Lane,Messina,Sicilia,SC,98135,Italy,IT,38.0918968,15.491758
+925,85929 Arizona Way,Avenue,Sydney,New South Wales,NSW,1028,Australia,AU,-34.0349557,151.0998291
+926,3 Harper Avenue,Street,Santiago De Compostela,Galicia,GA,15899,Spain,ES,42.8518656,-8.5638609
+927,06 Carpenter Court,Circle,High Point,North Carolina,NC,27264,United States,US,36.04,-80
+928,6462 Delaware Pass,Street,Orange,California,CA,92668,United States,US,32.4237461,-104.2655282
+929,61 Fuller Road,Hill,Carson City,Nevada,NV,89714,United States,US,39.1645065,-119.7634857
+930,1319 Lakewood Park,Pass,Greensboro,North Carolina,NC,27415,United States,US,36.09,-79.78
+931,2 Jenna Plaza,Plaza,Lelystad,Provincie Flevoland,16,8204,Netherlands,NL,52.5077777,5.4757709
+932,9934 Mallory Terrace,Street,Bronx,New York,NY,10469,United States,US,40.8690303,-73.8477874
+933,9213 Corscot Point,Parkway,Huntington,West Virginia,WV,25709,United States,US,38.4099999,-82.4599999
+934,98522 Red Cloud Court,Street,Los Angeles,California,CA,90040,United States,US,33.9930471,-118.153228
+935,3529 Calypso Hill,Pass,Kissimmee,Florida,FL,34745,United States,US,28.322781,-81.3912772
+936,084 Bayside Parkway,Place,Tiel,Provincie Gelderland,3,4004,Netherlands,NL,51.9094928,5.4352554
+937,01 Cardinal Avenue,Drive,Washington,District of Columbia,DC,20310,United States,US,38.9273849,-77.0125445
+938,97 Ohio Crossing,Street,Tucson,Arizona,AZ,85743,United States,US,32.3324642,-111.2129616
+939,44 Meadow Vale Trail,Crossing,Denton,Texas,TX,76210,United States,US,33.1362221,-97.0821162
+940,6258 Dunning Crossing,Lane,Birmingham,Alabama,AL,35205,United States,US,33.489895,-86.8094808
+941,4882 Golf Course Park,Circle,Staten Island,New York,NY,10310,United States,US,40.6307451,-74.1181234
+942,16 Tomscot Plaza,Plaza,Sydney,New South Wales,NSW,1033,Australia,AU,-33.8688197,151.2092955
+943,25 Pearson Alley,Alley,Badajoz,Extremadura,EX,6010,Spain,ES,38.8794495,-6.9706535
+944,93 Valley Edge Trail,Court,Jacksonville,Florida,FL,32244,United States,US,30.2102306,-81.7458845
+945,587 Karstens Plaza,Hill,Fort Wayne,Indiana,IN,46852,United States,US,41.07,-85.14
+946,61 Division Park,Point,Zürich,Kanton Zürich,ZH,8031,Switzerland,CH,47.3842312,8.5324101
+947,26081 Homewood Park,Drive,Wetzlar,Hessen,HE,35581,Germany,DE,50.5487974,8.5763725
+948,98 Mayfield Lane,Parkway,Reno,Nevada,NV,89519,United States,US,39.4854373,-119.8757349
+949,3 Mayfield Trail,Park,Dallas,Texas,TX,75205,United States,US,32.832584,-96.797592
+950,40 Union Court,Junction,Tulsa,Oklahoma,OK,74116,United States,US,36.1964847,-95.8459341
+951,9590 Redwing Alley,Road,Seattle,Washington,WA,98175,United States,US,47.61,-122.33
+952,617 Springs Alley,Avenue,Orlando,Florida,FL,32825,United States,US,28.5417016,-81.2408689
+953,6041 Sunnyside Street,Terrace,Roma,Lazio,LZ,141,Italy,IT,41.9391449,12.532671
+954,3238 Mockingbird Avenue,Point,San Diego,California,CA,92170,United States,US,32.6969212,-117.1343318
+955,7177 South Plaza,Circle,Enschede,Provincie Overijssel,15,7524,Netherlands,NL,52.2608863,6.9041984
+956,232 Macpherson Hill,Crossing,West Palm Beach,Florida,FL,33416,United States,US,26.6664174,-80.0894977
+957,6 Florence Street,Road,Bronx,New York,NY,10469,United States,US,40.8690303,-73.8477874
+958,2295 Linden Crossing,Street,Washington,District of Columbia,DC,20337,United States,US,42.5420213,-91.1118075
+959,73 Main Alley,Circle,Napoli,Campania,CM,80141,Italy,IT,40.8782107,14.2657584
+960,20525 Old Gate Plaza,Park,Bergen op Zoom,Provincie Noord-Brabant,6,4609,Netherlands,NL,51.5004971,4.2864439
+961,3 Longview Road,Junction,Canton,Ohio,OH,44710,United States,US,40.7886028,-81.4251512
+962,96637 Cordelia Center,Way,Zephyrhills,Florida,FL,33543,United States,US,28.2107548,-82.2909146
+963,4 Express Pass,Way,Düsseldorf,Nordrhein-Westfalen,NW,40489,Germany,DE,51.3305246,6.7625867
+964,0 Farragut Junction,Plaza,Düsseldorf,Nordrhein-Westfalen,NW,40591,Germany,DE,51.1879547,6.8173593
+965,24235 Park Meadow Road,Avenue,Fort Lauderdale,Florida,FL,33345,United States,US,26.0799319,-80.298025
+966,14 Westport Junction,Trail,München,Bayern,BY,81543,Germany,DE,48.1127929,11.5681872
+967,976 Sachs Hill,Center,Lansing,Michigan,MI,48912,United States,US,42.7376689,-84.5169757
+968,444 Corry Road,Way,Haarlem,Provincie Noord-Holland,7,2029,Netherlands,NL,52.3626877,4.6195236
+969,80922 5th Way,Point,Düsseldorf,Nordrhein-Westfalen,NW,40225,Germany,DE,51.1974375,6.7898817
+970,44175 Jay Alley,Trail,Louisville,Kentucky,KY,40293,United States,US,38.26,-85.75
+971,193 Moland Circle,Avenue,Vitoria-Gasteiz,Pais Vasco,PV,1005,Spain,ES,42.8436672,-2.6722992
+972,05 High Crossing Junction,Alley,Harrisburg,Pennsylvania,PA,17121,United States,US,40.2684396,-76.8832658
+973,0574 Merrick Park,Parkway,Warren,Ohio,OH,44485,United States,US,41.2420649,-80.8488498
+974,7 Logan Trail,Pass,Pasadena,California,CA,91186,United States,US,34.1349887,-118.1507494
+975,3 Old Shore Parkway,Hill,Shawnee Mission,Kansas,KS,66205,United States,US,39.0277832,-94.6557914
+976,330 Meadow Ridge Pass,Park,Cadiz,Andalucia,AN,11010,Spain,ES,36.5052612,-6.2761016
+977,975 Haas Place,Court,Hannover,Niedersachsen,NI,30453,Germany,DE,52.3723858,9.6890537
+978,5 Anderson Trail,Point,Fairbanks,Alaska,AK,99709,United States,US,64.8377778,-147.7163888
+979,38 Upham Plaza,Avenue,San Angelo,Texas,TX,76905,United States,US,31.4637723,-100.4370375
+980,79518 Macpherson Crossing,Street,Berlin,Berlin,BE,13347,Germany,DE,52.5496772,13.3643415
+981,476 Mockingbird Hill,Parkway,Alexandria,Virginia,VA,22301,United States,US,38.8189466,-77.0593246
+982,9442 Daystar Hill,Plaza,Berlin,Berlin,BE,12683,Germany,DE,52.4981613,13.5581889
+983,010 Delaware Terrace,Hill,Bakersfield,California,CA,93311,United States,US,35.1268513,-119.1855785
+984,66621 Packers Way,Terrace,Jackson,Mississippi,MS,39282,United States,US,32.2539326,-90.2481337
+985,53 Continental Hill,Place,Saint Louis,Missouri,MO,63150,United States,US,38.63,-90.2099999
+986,05230 Sullivan Avenue,Alley,Omaha,Nebraska,NE,68164,United States,US,41.2899133,-96.0996978
+987,36359 Hooker Center,Lane,Syracuse,New York,NY,13205,United States,US,42.9979838,-76.1377935
+988,1 3rd Drive,Circle,Anchorage,Alaska,AK,99507,United States,US,61.148769,-149.8010811
+989,1 Dahle Center,Junction,Rochester,New York,NY,14604,United States,US,43.1581207,-77.6063541
+990,0 Blue Bill Park Court,Park,Tampa,Florida,FL,33680,United States,US,27.9961123,-82.4290869
+991,11 Fallview Circle,Hill,Best,Provincie Noord-Brabant,6,5684,Netherlands,NL,51.513694,5.361629
+992,72874 Maryland Pass,Alley,Essen,Nordrhein-Westfalen,NW,45141,Germany,DE,51.4780256,7.0328812
+993,60 Stang Alley,Plaza,Groningen,Provincie Groningen,4,9704,Netherlands,NL,53.2231057,6.5319506
+994,970 Mendota Alley,Way,Los Angeles,California,CA,90189,United States,US,34.0599302,-118.249786
+995,071 Ohio Parkway,Drive,München,Bayern,BY,81679,Germany,DE,48.1440135,11.6074275
+996,705 Pond Point,Hill,Detroit,Michigan,MI,48217,United States,US,42.2827426,-83.1488186
+997,1284 Forster Crossing,Lane,Fuenlabrada,Madrid,MD,28944,Spain,ES,40.2748289,-3.7968574
+998,649 Nova Place,Court,München,Bayern,BY,81543,Germany,DE,48.1127929,11.5681872
+999,8335 Forster Junction,Point,Columbus,Ohio,OH,43268,United States,US,39.96,-83
+1000,6543 Tony Junction,Parkway,Berlin,Berlin,BE,13088,Germany,DE,52.5593051,13.4761485

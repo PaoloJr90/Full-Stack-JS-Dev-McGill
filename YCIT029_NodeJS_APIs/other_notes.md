@@ -1,5 +1,15 @@
 ## some lectures' notes 🍎
 
+### books to read: 📚
+
+- [NodeJS in Action](https://mcgill.on.worldcat.org/oclc/1005351411)
+- [NodeJS Web Development](https://mcgill.on.worldcat.org/oclc/1202553125)
+- [Express in Action](https://mcgill.on.worldcat.org/oclc/949043657)
+- [RESTful Web API Design with NodeJS](https://mcgill.on.worldcat.org/oclc/1035516599)
+- [MERN Quick Start Guide](https://mcgill.on.worldcat.org/oclc/1039697627)
+
+<br>
+
 1. terminal is the body, shell is the brain
 
    - open terminal with a specific shell (command prompt, PowerShell, bash etc.)
@@ -23,5 +33,4 @@
 
    - essence of statelessness in RESTful APIs
 
-8. Cloud Models
-   [![alt text](image)](https://res.cloudinary.com/practicaldev/image/fetch/s--ol7OnjXd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/flzshxgpfmu59dhor6mt.png)
+![alt text](https://2.bp.blogspot.com/-uKO-mWB5Lqk/UoA2kiedTmI/AAAAAAAABQM/I5WJDsdJskk/s1600/Cloud%2BModels.JPG)

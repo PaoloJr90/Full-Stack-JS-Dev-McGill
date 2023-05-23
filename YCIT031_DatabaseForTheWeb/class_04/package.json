@@ -1,0 +1,20 @@
+{
+  "name": "class_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data_gen.js",
+  "type": "module",
+  "scripts": {
+    "script": "node --inspect-brk data_gen.js",
+    "script:batchInspect": "node --inspect-brk data_gen_batch.js",
+    "script:batch": "node data_gen_batch.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.0.1",
+    "pg": "^8.11.0"
+  }
+}

@@ -11,6 +11,21 @@ const rl = readline.createInterface({
   output: process.stdout,
 });
 
+const startClient = () => {
+  console.log(chalk.blue("Welcome to our restaurant!"));
+  console.log(chalk.yellow("Please select a menu option:"));
+  console.log("1. Vegetarian");
+  console.log("2. Non-Vegetarian");
+  console.log("3. Desserts");
+  console.log("4. Beverages");
+  console.log("5. Chef's Special");
+
+  rl.question(chalk.yellow("Enter your choice (1-5): "), (answer) => {
+    getMenu(answer);
+    //console.log(chalk.red(answer));
+  });
+};
+
 const getMenu = (option) => {
   let path;
 
@@ -34,7 +49,7 @@ const getMenu = (option) => {
       console.error(
         chalk.red("Invalid choice. Please enter a number between 1 and 4.")
       );
-      return;
+      return startClient(); // restart the client
   }
 
   const options = {
@@ -58,26 +73,17 @@ const getMenu = (option) => {
     res.on("end", () => {
       console.log(chalk.green("Menu:"), JSON.parse(data));
       //data); use this to see the raw data from the server
-      rl.close();
+      //rl.close(); // close the readline interface
+      startClient(); // restart the client
     });
   });
 
   req.on("error", (error) => {
     console.error(chalk.red("Error:", error));
+    startClient(); // restart the client
   });
 
   req.end();
 };
 
-console.log(chalk.blue("Welcome to our restaurant!"));
-console.log(chalk.yellow("Please select a menu option:"));
-console.log("1. Vegetarian");
-console.log("2. Non-Vegetarian");
-console.log("3. Desserts");
-console.log("4. Beverages");
-console.log("5. Chef's Special");
-
-rl.question(chalk.yellow("Enter your choice (1-5): "), (answer) => {
-  getMenu(answer);
-  //console.log(chalk.red(answer));
-});
+startClient();
