@@ -1,0 +1,99 @@
+<!-- Interactive Quiz -->
+
+<html>
+  <head> </head>
+  <body>
+    <div id="content">
+      <h1>Interactive Quiz</h1>
+      <p>Here are some interesting questions:</p>
+      <ul id="questions"></ul>
+      <li id="q1-li">2 + 2 ?</li>
+      <button id="q1-button">Get Answer</button>
+      <li id="q2-li">
+        In which year did Christopher Columbus discover America?
+      </li>
+      <button id="q2-button">Get Answer</button>
+      <li id="q3-li">
+        What occurs twice in a lifetime, but once in every year, twice in a week
+        but never in a day?
+      </li>
+      <button id="q3-button">Get Answer</button>
+    </div>
+
+    <script>
+      // Complete-This-Code
+
+      // List of questions (statement + answer)
+      const questions = [
+        {
+          statement: "2+2?",
+          answer: "2+2 = 4",
+        },
+        {
+          statement: "In which year did Christopher Columbus discover America?",
+          answer: "1492",
+        },
+        {
+          statement:
+            "What occurs twice in a lifetime, but once in every year, twice in a week but never in a day?",
+          answer: "The E letter",
+        },
+      ];
+
+      // Write - Your - Code - From - Here
+      // define each question and button elements
+      const q1Element = document.getElementById("q1-li"); // Get the <li> element by its ID
+      const q1Button = document.getElementById("q1-button"); // Get the <button> element by its ID
+      const q2Element = document.getElementById("q2-li"); // Get the <li> element by its ID
+      const q2Button = document.getElementById("q2-button"); // Get the <button> element by its ID
+      const q3Element = document.getElementById("q3-li"); // Get the <li> element by its ID
+      const q3Button = document.getElementById("q3-button"); // Get the <button> element by its ID
+
+      // append the buttons to the li elements (to make them appear to the right-side of them)
+      q1Element.appendChild(q1Button); // Append the button to the <li> element
+      q2Element.appendChild(q2Button); // Append the button to the <li> element
+      q3Element.appendChild(q3Button); // Append the button to the <li> element
+
+      // on first click of the "Get Answer" button
+      q1Button.addEventListener("click", () => {
+        // Add an event listener to the button
+        q1Element.textContent = questions[0].answer; // Change the text content of the <li> element
+
+        // Create a button to get the question back
+        const getQuestionButton = document.createElement("button");
+        getQuestionButton.textContent = "Get Question";
+        getQuestionButton.addEventListener("click", () => {
+          q1Element.textContent = questions[0].statement; // Restore the original question
+          q1Element.appendChild(q1Button); // Append the button back to the <li> element
+        });
+
+        q1Element.appendChild(getQuestionButton); // Append the "Get Question" button to the <li> element
+      });
+
+      // copy the same as above for the other questions
+      q2Button.addEventListener("click", () => {
+        q2Element.textContent = questions[1].answer;
+
+        const getQuestionButton = document.createElement("button");
+        getQuestionButton.textContent = "Get Question";
+        getQuestionButton.addEventListener("click", () => {
+          q2Element.textContent = questions[1].statement;
+          q2Element.appendChild(q2Button);
+        });
+        q2Element.appendChild(getQuestionButton);
+      });
+
+      q3Button.addEventListener("click", () => {
+        q3Element.textContent = questions[2].answer;
+
+        const getQuestionButton = document.createElement("button");
+        getQuestionButton.textContent = "Get Question";
+        getQuestionButton.addEventListener("click", () => {
+          q3Element.textContent = questions[2].statement;
+          q3Element.appendChild(q3Button);
+        });
+        q3Element.appendChild(getQuestionButton);
+      });
+    </script>
+  </body>
+</html>

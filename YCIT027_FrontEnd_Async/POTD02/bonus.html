@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <a href="https://www.freecodecamp.org/">Visit freeCodeCamp!</a><br />
+    <a href="https://dev.to/">Visit dev.to!</a><br />
+    <a href="https://exercism.org/">Visit Exercism!</a><br />
+    <a href="https://portal.azure.com/">Visit Azure Portal!</a><br />
+    <a href="https://github.com/">Visit GitHub!</a><br />
+    <script>
+      function linkInfo() {
+        // Write - Your - Code
+        // count the number of links
+        const links = document.querySelectorAll("a");
+        if (links.length > 0) {
+          // target the first link
+          const firstLink = links[0];
+          // target the last link
+          const lastLink = links[links.length - 1];
+          console.log(
+            `Total links: ${links.length}, First link: ${firstLink}, Last link: ${lastLink}`
+          );
+        } else {
+          console.log("Link Count is zero");
+        }
+      }
+      linkInfo();
+    </script>
+  </body>
+</html>

@@ -1,8 +1,8 @@
 -- -- Create a new PostgreSQL database
--- CREATE DATABASE zoo_management;
+CREATE DATABASE zoo_management;
 
 -- -- Connect to the newly created database
--- \c zoo_management;
+\c zoo_management;
 
 CREATE TABLE enclosures (
   id SERIAL PRIMARY KEY,

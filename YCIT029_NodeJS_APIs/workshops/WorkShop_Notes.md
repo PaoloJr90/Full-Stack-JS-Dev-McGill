@@ -1,0 +1,4 @@
+- workshop #1 was based on class_01 code
+- workshop #2 was based on class_02 code
+- workshop #3 was based on class_04 code named app_auth_middleware.js
+- workshop #5 was based on class_09 (updated code from class_07) code named paginationSortingMiddleware.js

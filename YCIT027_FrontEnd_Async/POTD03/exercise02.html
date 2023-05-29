@@ -1,0 +1,49 @@
+<!-- a dessert list -->
+
+<html>
+  <head> </head>
+  <body>
+    <h1>My favourite desserts</h1>
+
+    <ul id="desserts"></ul>
+
+    <p><button id="addButton">Add a dessert</button></p>
+    <p>Click the "Edit" button to update the name.</p>
+
+    <script>
+      const desserts = document.getElementById("desserts");
+      const addButton = document.getElementById("addButton");
+
+      addButton.addEventListener("click", () => {
+        const dessert = prompt("Enter a dessert");
+        const newDessertButton = document.createElement("li");
+        newDessertButton.textContent = dessert;
+        // the above line is the same as:
+        // const newDessert = document.createTextNode(dessert);
+        const button = document.createElement("button");
+        button.textContent = "Edit";
+
+        // add the new dessert to the list
+        desserts.appendChild(newDessertButton);
+        // add the edit button to the new dessert
+        newDessertButton.appendChild(button);
+      });
+
+      // add an event listener to the desserts list
+      desserts.addEventListener("click", (event) => {
+        // check if the event target is a button
+        if (event.target.tagName === "BUTTON") {
+          // if it is, prompt the user for a new name
+          const newName = prompt("Enter a new name");
+          // change the text content of the button
+          const listItem = event.target.parentNode;
+          listItem.textContent = newName;
+          // add the edit button back
+          const editButton = document.createElement("button");
+          editButton.textContent = "Edit";
+          listItem.appendChild(editButton);
+        }
+      });
+    </script>
+  </body>
+</html>

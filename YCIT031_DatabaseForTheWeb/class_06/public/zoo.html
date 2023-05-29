@@ -50,7 +50,9 @@
     <script>
       async function fetchAnimals() {
         const response = await fetch("/animals");
+        console.log(response);
         const animals = await response.json();
+        console.log(animals);
         const animalsTable = document.getElementById("animals-table");
 
         for (const animal of animals) {
