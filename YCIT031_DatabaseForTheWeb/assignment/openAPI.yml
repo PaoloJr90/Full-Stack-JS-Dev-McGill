@@ -1,0 +1,497 @@
+# OpenAPI specification for the tools-store API
+# first-draft and work-in-progress
+# all paths are for external use unless otherwise specified in the path description
+# used https://swagger.io/docs/specification/basic-structure/ as a reference
+# used https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.1.0.md as a reference
+
+openapi: 3.0.0
+info:
+  title: e-Commerce API for power-tools store
+  description: API for e-Commerce power-tools store and database (internal use only)
+  version: 1.0.0
+
+servers:
+  - url: http://localhost:3000/api/v1
+    description: Local server (default)
+  - url: soon to be deployed on Azure
+    description: Azure server
+
+paths:
+  # products paths
+  /products:
+    get:
+      summary: Get all tools (internal and external use)
+      description: Get all tools from the database
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/Tool"
+        "404":
+          description: Not found
+  /products/{id}:
+    get:
+      summary: Get a tool by ID (internal and external use)
+      description: Get a tool from the database by ID
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: ID of the tool to get
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Tool"
+        "404":
+          description: Not found
+    put:
+      summary: Update a tool by ID. Internal use only - requires authentication
+      description: Update a tool from the database by ID
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: ID of the tool to update
+          schema:
+            type: integer
+            minimum: 1
+      requestBody:
+        description: Tool to update
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Tool"
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Tool"
+        "400":
+          description: Bad request
+        "404":
+          description: Not found
+    delete:
+      summary: Delete a tool by ID. Internal use only - requires authentication
+      description: Delete a tool from the database by ID
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: ID of the tool to delete
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        "204":
+          description: No content
+        "404":
+          description: Not found
+  /products/{id}/purchase:
+    post:
+      summary: purchase a tool by ID (external use)
+      description: purchase a tool from the database by ID
+      parameters:
+        - in: path
+          name: id
+          required: true
+          description: ID of the tool to purchase
+          schema:
+            type: integer
+            minimum: 1
+      requestBody:
+        description: Tool to purchase
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Tool"
+      responses:
+        "201":
+          description: Created
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Tool"
+        "400":
+          description: Bad request
+        "404":
+          description: Not found
+  # users paths
+  /users:
+    get:
+      summary: Get all users (internal use only - requires authentication)
+      description: Get all users from the database
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: get all users details from the database
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: "#/components/schemas/User"
+        "404":
+          description: Not found
+  /users/{id}:
+    get:
+      summary: Get a user by ID (internal use only - requires authentication)
+      description: Get a user from the database by ID
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: ID of the user to get
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/User"
+        "404":
+          description: Not found
+    put:
+      summary: Update a user by ID. Internal use only - requires authentication
+      description: Update a user from the database by ID
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: ID of the user to update
+          schema:
+            type: integer
+            minimum: 1
+      requestBody:
+        description: User to update
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/User"
+      responses:
+        "200":
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/User"
+        "400":
+          description: Bad request
+        "404":
+          description: Not found
+    delete:
+      summary: Delete a user by ID. Internal use only - requires authentication
+      description: Delete a user from the database by ID
+      parameters:
+        - in: path
+          security:
+            - BasicAuth: []
+          name: id
+          required: true
+          description: ID of the user to delete
+          schema:
+            type: integer
+            minimum: 1
+      responses:
+        "204":
+          description: No content
+        "404":
+          description: Not found
+    # shipments paths
+    /shipments:
+      get:
+        summary: Get all shipments (internal use only - requires authentication)
+        description: Get all shipments from the database
+        parameters:
+          - in: path
+            security:
+              - BasicAuth: []
+            name: id
+            required: true
+            description: get all shipments details from the database
+            schema:
+              type: integer
+              minimum: 1
+        responses:
+          "200":
+            description: OK
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: "#/components/schemas/Shipment"
+          "404":
+            description: Not found
+    /shipments/{id}:
+      get:
+        summary: Get a shipment by ID (internal use only - requires authentication)
+        description: Get a shipment from the database by ID
+        parameters:
+          - in: path
+            security:
+              - BasicAuth: []
+            name: id
+            required: true
+            description: ID of the shipment to get
+            schema:
+              type: integer
+              minimum: 1
+        responses:
+          "200":
+            description: OK
+            content:
+              application/json:
+                schema:
+                  $ref: "#/components/schemas/Shipment"
+          "404":
+            description: Not found
+      post:
+        summary: Create a shipment (internal use only - requires authentication)
+        description: Create a shipment in the database
+        requestBody:
+          description: Shipment to create
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Shipment"
+        responses:
+          "201":
+            description: Created
+            content:
+              application/json:
+                schema:
+                  $ref: "#/components/schemas/Shipment"
+          "400":
+            description: Bad request
+      put:
+        summary: Update a shipment by ID. Internal use only - requires authentication
+        description: Update a shipment from the database by ID
+        parameters:
+          - in: path
+            security:
+              - BasicAuth: []
+            name: id
+            required: true
+            description: ID of the shipment to update
+            schema:
+              type: integer
+              minimum: 1
+        requestBody:
+          description: Shipment to update
+          required: true
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/Shipment"
+        responses:
+          "200":
+            description: OK
+            content:
+              application/json:
+                schema:
+                  $ref: "#/components/schemas/Shipment"
+          "400":
+            description: Bad request
+          "404":
+            description: Not found
+      delete:
+        summary: Delete a shipment by ID. Internal use only - requires authentication
+        description: Delete a shipment from the database by ID
+        parameters:
+          - in: path
+            security:
+              - BasicAuth: []
+            name: id
+            required: true
+            description: ID of the shipment to delete
+            schema:
+              type: integer
+              minimum: 1
+        responses:
+          "204":
+            description: No content
+          "404":
+            description: Not found
+
+components:
+  schemas:
+    products:
+      type: object
+      required:
+        - id
+        - name
+        - description
+        - product_id
+        - brand_name
+        - category
+        - type
+        - color
+        - image_url
+        - quantity
+        - price
+      properties:
+        id:
+          type: integer
+          description: ID of the tool
+        name:
+          type: string
+          description: Name of the tool
+        description:
+          type: string
+          description: Description of the tool
+        product_id:
+          type: string
+          description: Product id of the tool
+        brand_name:
+          type: string
+          description: Brand name of the tool
+        category:
+          type: string
+          description: Category of the tool
+        type:
+          type: string
+          description: Type of the tool
+        color:
+          type: string
+          description: Color of the tool
+        image_url:
+          type: string
+          description: Image URL of the tool
+        quantity:
+          type: integer
+          description: Quantity of the tool
+        price:
+          type: integer
+          description: Price of the tool
+    User:
+      type: object
+      required:
+        - id
+        - first_name
+        - last_name
+        - email
+        - phone
+        - address
+        - city
+        - state_province
+        - country
+        - postal_zip
+        - password_hash
+    Shipment:
+      type: object
+      required:
+        - id
+        - order_id
+        - customer_id
+        - tracking_number
+        - carrier
+        - status
+        - created_at
+        - updated_at
+      properties:
+        id:
+          type: integer
+          description: ID of the shipment
+        order_id:
+          type: string
+          description: ID of the order
+        customer_id:
+          type: string
+          description: ID of the customer
+        tracking_number:
+          type: string
+          description: Tracking number of the shipment
+        carrier:
+          type: string
+          description: Carrier of the shipment
+        status:
+          type: string
+          description: Status of the shipment
+        created_at:
+          type: string
+          description: Creation date (Timestamp) of the shipment
+        updated_at:
+          type: string
+          description: Updated date (Timestamp) of the shipment
+    Order:
+      type: object
+      required:
+        - id
+        - order_number
+        - user_email
+        - product_id
+        - quantity
+        - price
+        - total_price
+        - created_at
+        - updated_at
+      properties:
+        id:
+          type: integer
+          description: ID of the order
+        order_number:
+          type: string
+          description: Order number of the order
+        user_email:
+          type: string
+          description: Email of the user
+        product_id:
+          type: string
+          description: ID of the product
+        quantity:
+          type: integer
+          description: Quantity of the product
+        price:
+          type: integer
+          description: Price of the product
+        total_price:
+          type: integer
+          description: Total price of the order
+        created_at:
+          type: string
+          description: Creation date (Timestamp) of the order
+        updated_at:
+          type: string
+          description: Updated date (Timestamp) of the order
+
+securitySchemes:
+  BasicAuth:
+    type: http
+    scheme: basic
+    description: Basic authentication with email and password

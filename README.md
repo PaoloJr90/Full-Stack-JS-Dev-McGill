@@ -1,4 +1,4 @@
-## **Full Stack JavaScript Development Program @ McGill** 🌳 ☀️🌙
+# **Full Stack JavaScript Development Program @ McGill** 🌳 ☀️🌙
 
 - [YCIT001 --> HTML & CSS](YCIT001_HTML_CSS)
 - [YCIT023 --> Structure & Interpretation of JavaScript](YCIT023_Structure_Interpretation_JS)
