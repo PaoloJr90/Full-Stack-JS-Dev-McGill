@@ -1,3 +1,6 @@
+-- Problem statement:
+-- Determine the top-performing employees based on their sales.
+
 -- getting the employee with the highest sales
 SELECT 
     e.first_name, 

@@ -1,4 +1,6 @@
 -- Subquery in WHERE clause
+-- Problem statement:
+-- Find the total sales made by employees who didn't take a vacation in January.
 
 -- vacation
 CREATE TABLE vacation (

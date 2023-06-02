@@ -1,3 +1,14 @@
+-- Problem statement:
+-- Using aggregate functions, window functions, and advanced clauses, 
+-- perform an analysis on an e-commerce database to calculate:
+-- 1. total sales per product category, 
+-- 2. the best selling product, 
+-- 3. the trend of sales over time, etc.
+
+-- Total sales per product category
+-- The best selling product
+-- The trend of sales over time
+
 -- Total sales per product category:
 SELECT c.name AS category, SUM(p.price * oi.quantity) AS total_sales
 FROM order_items oi

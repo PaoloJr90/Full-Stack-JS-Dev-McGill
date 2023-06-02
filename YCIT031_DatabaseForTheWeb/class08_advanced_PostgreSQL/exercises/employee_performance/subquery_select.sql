@@ -1,5 +1,7 @@
 -- Subqueries in SELECT statements
 --say we want to display each employee's total sales along with the average sales of all employees for comparison.
+-- Problem statement:
+-- Display each employee's total sales along with the average sales of all employees for comparison.
 
 SELECT 
     e.first_name, 

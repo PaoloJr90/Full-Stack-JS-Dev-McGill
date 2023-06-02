@@ -1,6 +1,6 @@
-## some lectures' notes 🍎
+# some lectures' notes 🍎
 
-### books to read: 📚
+## books to read: 📚
 
 - [NodeJS in Action](https://mcgill.on.worldcat.org/oclc/1005351411)
 - [NodeJS Web Development](https://mcgill.on.worldcat.org/oclc/1202553125)
@@ -8,7 +8,7 @@
 - [RESTful Web API Design with NodeJS](https://mcgill.on.worldcat.org/oclc/1035516599)
 - [MERN Quick Start Guide](https://mcgill.on.worldcat.org/oclc/1039697627)
 
-<br>
+---
 
 1. terminal is the body, shell is the brain
 

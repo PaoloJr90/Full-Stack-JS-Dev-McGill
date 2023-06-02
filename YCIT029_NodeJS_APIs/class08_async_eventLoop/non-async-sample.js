@@ -23,13 +23,13 @@ const express = require("express");
 const path = require("path");
 const ejs = require("ejs");
 
-const app = express();
-const port = 3000;
+const app2 = express();
+const port2 = 3001;
 
-app.set("view engine", "ejs");
-app.set("views", path.join(__dirname, "views"));
+app2.set("view engine", "ejs");
+app2.set("views", path.join(__dirname, "views"));
 
-app.get("/", (req, res) => {
+app2.get("/", (req, res) => {
   const data = {
     title: "Home",
     message: "Welcome to our homepage!",
@@ -41,6 +41,6 @@ app.get("/", (req, res) => {
   res.send(renderedHtml);
 });
 
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
+app2.listen(port2, () => {
+  console.log(`Server is running on port ${port2}`);
 });
