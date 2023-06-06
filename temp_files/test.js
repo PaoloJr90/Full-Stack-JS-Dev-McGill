@@ -1,33 +1,17 @@
-var promise = func1();
-
-promise
-
-.then(function(result1) {
-    console.log(result1);
-    return func2();
-})
-
-.then(function(result2) {
-    console.log(result2);
-    return result2%10;
-})
-
-.then(function(result3) {
-    console.log(result3);
-});
-
-function func1() {
-    return new Promise(function(resolve, reject) {
-        setTimeout(function() {
-            resolve("Hello");
-        }, 1000);
+function func1(num) {
+    return new Promise(function(resolve){
+      setTimeout(function(){
+        resolve(num);
+      }, 1000);
     });
-}
-
-function func2() {
-    return new Promise(function(resolve, reject) {
-        setTimeout(function() {
-            resolve(50);
-        }, 1000);
+  }
+  
+  async function multiply(num) {
+    const x = func1(10);
+    const y = func1(3);
+    return num * await x * await y;
+  }
+  
+  multiply(10).then(function(result){
+    console.log(result);
     });
-}

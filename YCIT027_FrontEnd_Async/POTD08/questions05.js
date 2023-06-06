@@ -1,33 +1,35 @@
 
-
 let array = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 let arrayTest = [];
 let arrayTest2 = "";
 
 const processData = (something) => {
+        return new Promise((resolve, reject) => {
     if (!Array.isArray(something) || something.length === 0) {
-        return console.error("Input parameter must be an array object and length must be >= than 1")
+       reject("it must be an array object with length >= 1")
     } else {
+        
     let newArray = [];
-    const newArrayCalc = array.forEach(element => {
-        newArray.push(element * 2);
+    const newArrayCalc = array.map((element) => {
+        element = element * 2;
+        newArray.push(element);
     });
-        return newArray;
+    resolve(newArray);
     }
+    });
 };
 
 
-const logData = async (somethingElse) => {
-    try {
-        const result = await processData(somethingElse);
-        if (result === undefined) return console.log("Error in processData function");
-        else return console.log(result);
-
-    } catch (someError) {
-        console.log("Some other error");
-    }
+async function logData(somethingElse) {
+    await processData(somethingElse)
+    .then((value) => {
+        console.log(`The new array is ${value}`);
+    })
+    .catch((error) => {
+        console.log(`there is a problem with the input arugment: ${error}`);
+    });
 };
 
 logData(array);
-// logData(arrayTest);
-// logData(arrayTest2);
+logData(arrayTest);
+logData(arrayTest2);

@@ -6,7 +6,7 @@ let countDownFrom = (num) => {
     countDownFrom(num - 1);
 }
 
-countDownFrom(10);
+// countDownFrom(10);
 // output: 10 9 8 7 6 5 4 3 2 1
 
 // recursion example 2
@@ -21,16 +21,16 @@ let categories = [
     { id: 'siamese', parent: 'cats' }
 ]
 
-let makeTree = (categories, parent) => {
+let makeTree = (someCategories, parent) => {
     let node = {}; // create a new object
-    categories
+    someCategories
         .filter(c => c.parent === parent); // filter the categories array
         // .forEach(c =>
         //     node[c.id] = makeTree(categories, c.id)); // for each category, create a new node
     return node;
 }
 
-console.log
+console.log(makeTree(categories, null));
 
 // console.log(
 //     JSON.stringify(
