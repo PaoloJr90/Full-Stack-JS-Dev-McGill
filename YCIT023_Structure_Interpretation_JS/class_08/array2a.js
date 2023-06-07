@@ -3,7 +3,9 @@ const numbers = [65, 44, 12, 4];
 
 numbers.forEach(myFunction);
 
-// function to add the elements of the numbers array
+// function to sum the elements of the numbers array
+// item is the current element of the array being processed
+// as forEach iterates over the `numbers` array
 function myFunction(item) {
     sum += item;
 }
