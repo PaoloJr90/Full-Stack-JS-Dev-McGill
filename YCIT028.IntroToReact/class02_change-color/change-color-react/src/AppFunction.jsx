@@ -12,8 +12,8 @@ function AppFunction() {
   //   console.log(randomIndex);
   // }, []);
   const [state, setState] = useState({ currentIndexColor: 0 });
-  console.log(state);
-  console.log(setState);
+  // console.log(state);
+  // console.log(setState);
 
   useEffect(() => {
     const randomIndex = Math.floor(Math.random() * colors.length);
