@@ -1,5 +1,5 @@
 import React from "react";
-import colors from "./common/colors";
+import { colors } from "./common/colors";
 import "./app.scss";
 
 class AppClass extends React.Component {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import colors from "./common/colors";
+import { colors } from "./common/colors";
 
 function AppFunction() {
   // useEffect is a hook that runs after the first render
@@ -20,6 +20,22 @@ function AppFunction() {
     document.body.style.backgroundColor = colors[randomIndex];
     setState({ currentIndexColor: randomIndex });
   }, []);
+
+  function rgbToHex(rgb) {
+    const hex = Number(rgb).toString(16);
+    if (hex.length < 2) {
+      return "0" + hex;
+    }
+    return hex;
+  }
+
+  const element = document.getElementById("current-color");
+  const styles = getComputedStyle(element);
+  const rgbColor = styles.backgroundColor;
+  const rgbArray = rgbColor.replace(/[^\d,]/g, "").split(",");
+  const hexColor =
+    "#" + rgbToHex(rgbArray[0]) + rgbToHex(rgbArray[1]) + rgbToHex(rgbArray[2]);
+  console.log(hexColor);
 
   return (
     <div id="app">

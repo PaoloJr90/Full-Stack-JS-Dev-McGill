@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { colors, colors2, colors3, colors4 } from "./common/colors";
 
 function generateRandomColor() {
   const letters = "0123456789ABCDEF";
@@ -19,10 +20,27 @@ function generateRandomColorsArray(length) {
 }
 //   console.log(generateRandomColorsArray(10));
 
-// function AppChangeColorSet() {
-//   return (
+function AppChangeColorSet() {
+  return (
+    <button
+      onClick={() => {
+        const colors = generateRandomColorsArray(10);
+        {
+          colors.map((color, index) => {
+            return (
+              <button
+                key={`color-${index}`}
+                style={{ backgroundColor: color }}
+                className={index}
+              ></button>
+            );
+          });
+        }
+      }}
+    >
+      Switch Color Set!
+    </button>
+  );
+}
 
-//   );
-// }
-
-// export default AppChangeColorSet;
+export default AppChangeColorSet;

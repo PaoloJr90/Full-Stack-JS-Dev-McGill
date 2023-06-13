@@ -10,7 +10,7 @@ root.render(
   <>
     <AppFunction />
     {/* <AppClass /> */}
-    {/* <AppChangeColorSet /> */}
+    <AppChangeColorSet />
     <AppFooter />
   </>
 );
