@@ -21,7 +21,7 @@ const Modal = ({ store, setStore }) => {
           </button>
         </div>
         <div className="body">
-          <h2 style={{ textAlign: "left" }}> {store.modalProperty.title1}</h2>
+          <h2 style={{ textAlign: "left" }}>{store.modalProperty.title}</h2>
           <p>{store.modalText}</p>
         </div>
       </div>
