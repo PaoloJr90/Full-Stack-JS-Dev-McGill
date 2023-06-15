@@ -9,8 +9,8 @@ function Container() {
   const [store, setStore] = useState({
     modalProperty: {
       showModal: false,
-      title: "Modal 1",
-      title1: {},
+      title: "Title Something",
+      title1: "Header Something",
     },
     modalText: "Hello World!",
   });
