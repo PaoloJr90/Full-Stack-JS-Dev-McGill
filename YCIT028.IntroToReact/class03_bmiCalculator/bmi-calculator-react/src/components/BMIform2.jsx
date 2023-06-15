@@ -58,13 +58,17 @@ const BmiForm2 = (props) => {
             alert("Weight must be greater than 50");
             return;
           }
+          if (isNaN(height) || isNaN(weight)) {
+            alert("Height and Weight must be numbers");
+            return;
+          }
           const result = calculateBmi(height, weight);
           console.log(`Result = ${result}`);
           // console.log("clicked");
           //   setResult(result);
           setState({
             ...state,
-            result: result,
+            result: `Your BMI = ${result}`,
           });
         }}
         type="button"

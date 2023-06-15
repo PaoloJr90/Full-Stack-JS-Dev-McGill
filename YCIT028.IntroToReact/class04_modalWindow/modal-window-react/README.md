@@ -1,1 +1,1 @@
-# modal window practice
+# modal window with React practice
