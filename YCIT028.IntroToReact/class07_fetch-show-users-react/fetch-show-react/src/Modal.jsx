@@ -5,10 +5,12 @@ const Modal = ({ store, setStore }) => {
   return (
     <div
       className="modal"
-      style={{ display: store.modalProperty.showModal ? "block" : "none" }}
+      style={{
+        display: store.modalProperty.showModal ? "block" : "none",
+      }}
     >
       <div className="background"></div>
-      <div className="modal-container">
+      <div className="modal-container" style={{ position: "relative" }}>
         <div className="header">
           {store.modalProperty.title}
           <button

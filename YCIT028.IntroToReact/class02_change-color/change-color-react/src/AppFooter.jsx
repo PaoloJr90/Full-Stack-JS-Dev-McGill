@@ -1,8 +1,8 @@
-import { useState } from "react";
+// import { useState } from "react";
 import "./app.scss";
 
 function AppFooter() {
-  const [state, setState] = useState({ currentIndexColor: 0 });
+  // const [state, setState] = useState({ currentIndexColor: 0 });
   // console.log(state);
   // console.log(setState);
 
