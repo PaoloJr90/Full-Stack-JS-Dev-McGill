@@ -18,12 +18,12 @@ const initialState = {
 };
 
 function App() {
-  const [state, setState] = useImmer({ initialState });
+  const [state, setState] = useImmer(initialState);
 
   const validate =
     state.email &&
     !state.showInvalidEmail &&
-    state.password.length > 8 &&
+    state.password.length > 9 &&
     ["Strong", "Medium"].includes(state.passwordStrength.value) &&
     state.password === state.confirmPassword;
 
@@ -74,23 +74,22 @@ function App() {
             className="form-control"
             type={state.showPassword ? "text" : "password"}
             data-rules="required|string|min:5"
-            placeholder="Must be greater than 8 characters"
+            placeholder="Test placeholder"
             value={state.password || ""}
-            onChange={(event) =>
+            onChange={(event) => {
               setState((draft) => {
                 draft.password = event.target.value;
                 if (state.showPassword) {
                   draft.confirmPassword = event.target.value;
                 }
-                if (event.target.value.length > 8) {
+                if (event.target.value.length > 9) {
                   const passwordStrengthValue = passwordStrength(
                     event.target.value
                   ).value;
                   console.log(passwordStrengthValue);
-
                   draft.passwordStrength.value = passwordStrengthValue;
                   switch (passwordStrengthValue) {
-                    case "Too Weak":
+                    case "Too weak":
                       draft.passwordStrength.color = "red";
                       break;
                     case "Weak":
@@ -107,11 +106,11 @@ function App() {
                   draft.passwordStrength.value = "";
                   draft.passwordStrength.color = "";
                 }
-              })
-            }
+              });
+            }}
             onBlur={() => {
               setState((draft) => {
-                draft.isPasswordShort = state.password.length < 8;
+                draft.isPasswordShort = state.password.length < 9;
               });
             }}
           />
@@ -124,7 +123,7 @@ function App() {
                 fontWeight: "bold",
               }}
             >
-              Password must greater than 8 characters
+              Password must greater than 9 characters
             </p>
           )}
           {state.password && (
@@ -205,6 +204,12 @@ function App() {
             {state.passwordStrength.value}
           </div>
         )}
+        <ul className="information">
+          <li> password must be greater than 9 characters</li>
+          <li> password must contain at least one uppercase letter</li>
+          <li> password must contain at least one number</li>
+          <li> password must contain at least one special character</li>
+        </ul>
         <button
           disabled={!validate}
           style={{ backgroundColor: validate ? "" : "black" }}

@@ -103,6 +103,13 @@ body {
         border-color: black;
       }
     }
+
+    .information {
+      margin-top: 20px;
+      text-align: left;
+      font-size: small;
+      color: #0008;
+    }
   }
   @media (min-width: 768px) {
     #app {
