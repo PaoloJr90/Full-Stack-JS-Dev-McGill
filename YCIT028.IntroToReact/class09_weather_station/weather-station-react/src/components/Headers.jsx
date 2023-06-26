@@ -1,6 +1,7 @@
 import React from "react";
 import { useContext } from "react";
 import { AppContext } from "../context/AppContext";
+import fetchCityWeatherInfo from "../common/fetchCityWeatherInfo";
 
 const Headers = () => {
   const [state, setState] = useContext(AppContext);
@@ -27,17 +28,19 @@ const Headers = () => {
             className={`
               search-button +
               ${
-                state?.selctedCityInfo?.main?.temp > Number(12 + 273.15)
+                state?.selectedCityInfo?.main?.temp > Number(20 + 273.15)
                   ? "button-warm"
                   : "button-cold"
               }
           `}
             onClick={async () => {
-              // const result = await fetchCityWeatherInfo((appState?.search || '').toLowerCase())
-              // immutableSetState((draft) => {
-              //     draft.selctedCityInfo = result;
-              // });
+              const result = await fetchCityWeatherInfo(state.search);
+              // debugger;
+              setState((draft) => {
+                draft.selectedCityInfo = result;
+              });
             }}
+            disabled={state?.search?.length <= 0}
           >
             Find
           </button>

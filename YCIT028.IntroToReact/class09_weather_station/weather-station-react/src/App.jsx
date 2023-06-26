@@ -5,10 +5,16 @@ import Headers from "./components/Headers";
 import { AppContext } from "./context/AppContext";
 
 function App() {
-  const hi = useContext(AppContext);
-  console.log(hi);
+  const [state, setState] = useContext(AppContext);
+  // console.log(hi);
   return (
-    <div className="app">
+    <div
+      className={
+        state?.selectedCityInfo?.main?.temp > Number(20 + 273.15)
+          ? "app warm"
+          : "app"
+      }
+    >
       <main>
         <Headers />
 

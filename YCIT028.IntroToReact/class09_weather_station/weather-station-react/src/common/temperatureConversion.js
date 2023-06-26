@@ -7,6 +7,10 @@ const celciusIntoFarenhit = (celTemp) => {
 };
 
 const temperatureConversion = (selectedCityInfo, type = "C") => {
+  if (!selectedCityInfo?.main?.temp) {
+    return null;
+  }
+
   const postString = type === "C" ? "°C" : "°F";
   const tempCel = kelvinIntoCelcius(selectedCityInfo?.main?.temp);
   const feels_likeCel = kelvinIntoCelcius(selectedCityInfo?.main?.feels_like);
