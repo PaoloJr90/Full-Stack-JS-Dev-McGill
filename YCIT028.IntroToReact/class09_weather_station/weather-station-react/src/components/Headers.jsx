@@ -34,8 +34,8 @@ const Headers = () => {
               }
           `}
             onClick={async () => {
-              const result = await fetchCityWeatherInfo(state.search);
-              // debugger;
+              const result = await fetchCityWeatherInfo(state?.search);
+              debugger;
               setState((draft) => {
                 draft.selectedCityInfo = result;
               });

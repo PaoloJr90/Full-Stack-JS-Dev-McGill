@@ -8,6 +8,8 @@ const fetchCityWeatherInfo = async (city) => {
   // const parsedResult = JSON.parse(textResult);
   // console.log(parsedResult);
 
+  console.log(rawResult);
+
   const result = await rawResult.response.json();
   // console.log(result);
   return result;
