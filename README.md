@@ -7,5 +7,8 @@
 - [YCIT027 --> Front-End JavaScript & Asynchronous Programming](YCIT027_FrontEnd_Async)
 - [YCIT028 --> IntroToReact](YCIT028_IntroToReact)
 - [YCIT029 --> NodeJS & APIs](YCIT029_NodeJS_APIs)
-- [YCIT030 --> Advanced React](YCIT030_AdvancedReact)
+- YCIT030 --> Advanced React
+  - [Workshops](https://github.com/PaoloJr90/AdvancedReact)
+  - [e-Commerce Project](https://github.com/PaoloJr90/AdvancedReact_project)
 - [YCIT031 --> Database for the Web (PostgreSQL)](YCIT031_DatabaseForTheWeb)
+- [YCIT099 --> Capstone Project](https://github.com/PaoloJr90/PollsPlanet)
